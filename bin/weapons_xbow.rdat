@@ -1,0 +1,17 @@
+*8
+$4
+SADD
+$12
+weapons:xbow
+$14
+light crossbow
+$14
+heavy crossbow
+$13
+hand crossbow
+$24
+repeating light crossbow
+$24
+repeating heavy crossbow
+$14
+great crossbow

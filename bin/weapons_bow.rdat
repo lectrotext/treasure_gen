@@ -1,0 +1,33 @@
+*16
+$4
+SADD
+$11
+weapons:bow
+$7
+longbow
+$17
+composite longbow
+$32
+composite longbow (+1 Str bonus)
+$32
+composite longbow (+2 Str bonus)
+$32
+composite longbow (+3 Str bonus)
+$32
+composite longbow (+4 Str bonus)
+$32
+composite longbow (+5 Str bonus)
+$8
+shortbow
+$18
+composite shortbow
+$33
+composite shortbow (+1 Str bonus)
+$33
+composite shortbow (+2 Str bonus)
+$33
+composite shortbow (+3 Str bonus)
+$33
+composite shortbow (+4 Str bonus)
+$33
+composite shortbow (+5 Str bonus)

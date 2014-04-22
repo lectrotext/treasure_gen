@@ -1,0 +1,33 @@
+*16
+$4
+SADD
+$14
+weapons:thrown
+$6
+dagger
+$4
+club
+$10
+shortspear
+$5
+spear
+$4
+dart
+$7
+javelin
+$12
+throwing axe
+$12
+light hammer
+$7
+trident
+$3
+sai
+$4
+bola
+$3
+net
+$8
+shuriken
+$15
+throwing hammer

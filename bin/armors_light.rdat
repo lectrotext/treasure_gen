@@ -1,0 +1,17 @@
+*8
+$4
+SADD
+$12
+armors:light
+$6
+padded
+$7
+leather
+$15
+studded leather
+$11
+chain shirt
+$17
+mithral chainmail
+$19
+mithral breastplate

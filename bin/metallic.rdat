@@ -1,4 +1,4 @@
-*13
+*14
 $4
 SADD
 $8
@@ -25,3 +25,5 @@ $18
 heavy steel shield
 $7
 buckler
+$18
+steel tower shield

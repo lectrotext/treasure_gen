@@ -1,4 +1,4 @@
-*8
+*9
 $4
 SADD
 $7
@@ -13,5 +13,7 @@ $19
 heavy wooden shield
 $18
 heavy steel shield
-$12
-tower shield 
+$19
+wooden tower shield
+$18
+steel tower shield
