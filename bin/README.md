@@ -1,4 +1,4 @@
-## Datasets for treasure geneator
+## Datasets for Treasure Generator
 
 These files need to be installed into your redis instance.
 
