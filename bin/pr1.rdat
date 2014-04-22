@@ -1,0 +1,9 @@
+*4
+$4
+HSET
+$11
+armor:price
+$8
+armor:+1
+$4
+1000
