@@ -1,4 +1,4 @@
-*26
+*31
 $4
 SADD
 $18
@@ -51,3 +51,13 @@ $20
 dwarven double spear
 $15
 dwarven warpike
+$10
+greatspear
+$13
+double hammer
+$8
+lajatang
+$10
+mancatcher
+$13
+heavy poleaxe

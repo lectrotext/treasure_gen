@@ -1,4 +1,4 @@
-*16
+*17
 $4
 SADD
 $14
@@ -31,3 +31,5 @@ $8
 shuriken
 $15
 throwing hammer
+$9
+boomerang

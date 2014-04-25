@@ -1,4 +1,4 @@
-*16
+*23
 $4
 SADD
 $11
@@ -31,3 +31,17 @@ $33
 composite shortbow (+4 Str bonus)
 $33
 composite shortbow (+5 Str bonus)
+$8
+greatbow
+$18
+composite greatbow
+$33
+composite greatbow (+1 Str bonus)
+$33
+composite greatbow (+2 Str bonus)
+$33
+composite greatbow (+3 Str bonus)
+$33
+composite greatbow (+4 Str bonus)
+$33
+composite greatbow (+5 Str bonus)
