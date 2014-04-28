@@ -1,4 +1,4 @@
-*8
+*9
 $4
 SADD
 $14
@@ -15,3 +15,5 @@ $11
 arrows (50)
 $18
 sling bullets (50)
+$8
+warsling
