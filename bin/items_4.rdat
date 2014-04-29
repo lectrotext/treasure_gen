@@ -5,7 +5,7 @@ $7
 items:4
 $1
 1
-$
+$33
 Eternal wand of cure light wounds
 *4
 $4
@@ -14,7 +14,7 @@ $7
 items:4
 $1
 2
-$
+$30
 Eternal wand of enlarge person
 *4
 $4
@@ -23,7 +23,7 @@ $7
 items:4
 $1
 3
-$
+$26
 Eternal wand of mage armor
 *4
 $4
@@ -32,7 +32,7 @@ $7
 items:4
 $1
 4
-$
+$29
 Eternal wand of magic missile
 *4
 $4
@@ -41,7 +41,7 @@ $7
 items:4
 $1
 5
-$
+$51
 Eternal wand of protection from chaos/evil/good/law
 *4
 $4
@@ -50,7 +50,7 @@ $7
 items:4
 $1
 6
-$
+$35
 Eternal wand of ray of enfeeblement
 *4
 $4
@@ -59,7 +59,7 @@ $7
 items:4
 $1
 7
-$
+$35
 Eternal wand of repair light damage
 *4
 $4
@@ -68,7 +68,7 @@ $7
 items:4
 $1
 8
-$
+$22
 Eternal wand of shield
 *4
 $4
@@ -77,7 +77,7 @@ $7
 items:4
 $1
 9
-$
+$15
 Dust of dryness
 *4
 $4
@@ -86,7 +86,7 @@ $7
 items:4
 $2
 10
-$
+$13
 Acrobat boots
 *4
 $4
@@ -95,7 +95,7 @@ $7
 items:4
 $2
 11
-$
+$19
 Bag of tricks, gray
 *4
 $4
@@ -104,7 +104,7 @@ $7
 items:4
 $2
 12
-$
+$10
 Blast disk
 *4
 $4
@@ -113,7 +113,7 @@ $7
 items:4
 $2
 13
-$
+$26
 Crystal of stamina, lesser
 *4
 $4
@@ -122,7 +122,7 @@ $7
 items:4
 $2
 14
-$
+$16
 Hand of the mage
 *4
 $4
@@ -131,7 +131,7 @@ $7
 items:4
 $2
 15
-$
+$19
 Pearl of brain lock
 *4
 $4
@@ -140,7 +140,7 @@ $7
 items:4
 $2
 16
-$
+$13
 Piercer cloak
 *4
 $4
@@ -149,7 +149,7 @@ $7
 items:4
 $2
 17
-$
+$21
 Potion of barkskin +4
 *4
 $4
@@ -158,7 +158,7 @@ $7
 items:4
 $2
 18
-$
+$37
 Wand of bear's endurance (10 charges)
 *4
 $4
@@ -167,7 +167,7 @@ $7
 items:4
 $2
 19
-$
+$25
 Wand of blur (10 charges)
 *4
 $4
@@ -176,7 +176,7 @@ $7
 items:4
 $2
 20
-$
+$36
 Wand of bull's strength (10 charges)
 *4
 $4
@@ -185,7 +185,7 @@ $7
 items:4
 $2
 21
-$
+$32
 Wand of cat's grace (10 charges)
 *4
 $4
@@ -194,7 +194,7 @@ $7
 items:4
 $2
 22
-$
+$41
 Wand of cure moderate wounds (10 charges)
 *4
 $4
@@ -203,7 +203,7 @@ $7
 items:4
 $2
 23
-$
+$33
 Wand of delay poison (10 charges)
 *4
 $4
@@ -212,7 +212,7 @@ $7
 items:4
 $2
 24
-$
+$33
 Wand of invisibility (10 charges)
 *4
 $4
@@ -221,7 +221,7 @@ $7
 items:4
 $2
 25
-$
+$26
 Wand of knock (10 charges)
 *4
 $4
@@ -230,7 +230,7 @@ $7
 items:4
 $2
 26
-$
+$33
 Wand of mirror image (10 charges)
 *4
 $4
@@ -239,8 +239,8 @@ $7
 items:4
 $2
 27
-$
-Wand of repair moderate damageSC (10 charges)
+$43
+Wand of repair moderate damage (10 charges)
 *4
 $4
 ZADD
@@ -248,7 +248,7 @@ $7
 items:4
 $2
 28
-$
+$34
 Wand of scorching ray (10 charges)
 *4
 $4
@@ -257,7 +257,7 @@ $7
 items:4
 $2
 29
-$
+$37
 Wand of see invisibility (10 charges)
 *4
 $4
@@ -266,7 +266,7 @@ $7
 items:4
 $2
 30
-$
+$23
 Scroll of stoneskin (A)
 *4
 $4
@@ -275,7 +275,7 @@ $7
 items:4
 $2
 31
-$
+$19
 Bracers of armor +1
 *4
 $4
@@ -284,7 +284,7 @@ $7
 items:4
 $2
 32
-$
+$19
 Brawler's gauntlets
 *4
 $4
@@ -293,7 +293,7 @@ $7
 items:4
 $2
 33
-$
+$19
 Brooch of stability
 *4
 $4
@@ -302,7 +302,7 @@ $7
 items:4
 $2
 34
-$
+$12
 Burning veil
 *4
 $4
@@ -311,7 +311,7 @@ $7
 items:4
 $2
 35
-$
+$29
 Cloak of elemental protection
 *4
 $4
@@ -320,7 +320,7 @@ $7
 items:4
 $2
 36
-$
+$22
 Cloak of resistance +1
 *4
 $4
@@ -329,7 +329,7 @@ $7
 items:4
 $2
 37
-$
+$27
 Cognizance crystal, 1 point
 *4
 $4
@@ -338,7 +338,7 @@ $7
 items:4
 $2
 38
-$
+$33
 Crystal of aquatic action, lesser
 *4
 $4
@@ -347,7 +347,7 @@ $7
 items:4
 $2
 39
-$
+$32
 Crystal of illumination, greater
 *4
 $4
@@ -356,7 +356,7 @@ $7
 items:4
 $2
 40
-$
+$30
 Crystal of lifekeeping, lesser
 *4
 $4
@@ -365,7 +365,7 @@ $7
 items:4
 $2
 41
-$
+$25
 Crystal of return, lesser
 *4
 $4
@@ -374,7 +374,7 @@ $7
 items:4
 $2
 42
-$
+$28
 Crystal of screening, lesser
 *4
 $4
@@ -383,7 +383,7 @@ $7
 items:4
 $2
 43
-$
+$27
 Crystal of security, lesser
 *4
 $4
@@ -392,7 +392,7 @@ $7
 items:4
 $2
 44
-$
+$25
 Demolition crystal, least
 *4
 $4
@@ -401,7 +401,7 @@ $7
 items:4
 $2
 45
-$
+$15
 Dispelling cord
 *4
 $4
@@ -410,7 +410,7 @@ $7
 items:4
 $2
 46
-$
+$17
 Drums of marching
 *4
 $4
@@ -419,7 +419,7 @@ $7
 items:4
 $2
 47
-$
+$19
 Eagle claw talisman
 *4
 $4
@@ -428,7 +428,7 @@ $7
 items:4
 $2
 48
-$
+$26
 Fiendslayer crystal, least
 *4
 $4
@@ -437,7 +437,7 @@ $7
 items:4
 $2
 49
-$
+$34
 Gauntlets of energy transformation
 *4
 $4
@@ -446,7 +446,7 @@ $7
 items:4
 $2
 50
-$
+$26
 Gloves of spell disruption
 *4
 $4
@@ -455,7 +455,7 @@ $7
 items:4
 $2
 51
-$
+$24
 Gloves of the starry sky
 *4
 $4
@@ -464,7 +464,7 @@ $7
 items:4
 $2
 52
-$
+$10
 Glyph seal
 *4
 $4
@@ -473,7 +473,7 @@ $7
 items:4
 $2
 53
-$
+$19
 Lightning gauntlets
 *4
 $4
@@ -482,7 +482,7 @@ $7
 items:4
 $2
 54
-$
+$31
 Pearl of power, 1st-level spell
 *4
 $4
@@ -491,7 +491,7 @@ $7
 items:4
 $2
 55
-$
+$26
 Phylactery of faithfulness
 *4
 $4
@@ -500,7 +500,7 @@ $7
 items:4
 $2
 56
-$
+$21
 Reliquary holy symbol
 *4
 $4
@@ -509,7 +509,7 @@ $7
 items:4
 $2
 57
-$
+$17
 Replenishing skin
 *4
 $4
@@ -518,7 +518,7 @@ $7
 items:4
 $2
 58
-$
+$26
 Revelation crystal, lesser
 *4
 $4
@@ -527,7 +527,7 @@ $7
 items:4
 $2
 59
-$
+$22
 Ring of brief blessing
 *4
 $4
@@ -536,7 +536,7 @@ $7
 items:4
 $2
 60
-$
+$21
 Salve of slipperiness
 *4
 $4
@@ -545,7 +545,7 @@ $7
 items:4
 $2
 61
-$
+$23
 Third eye improvisation
 *4
 $4
@@ -554,7 +554,7 @@ $7
 items:4
 $2
 62
-$
+$24
 Truedeath crystal, least
 *4
 $4
@@ -563,7 +563,7 @@ $7
 items:4
 $2
 63
-$
+$21
 Vest of resistance +1
 *4
 $4
@@ -572,7 +572,7 @@ $7
 items:4
 $2
 73
-$
+$16
 +1 ~armor/shield
 *4
 $4
@@ -581,7 +581,7 @@ $7
 items:4
 $2
 74
-$
+$20
 Mithral heavy shield
 *4
 $4
@@ -590,7 +590,7 @@ $7
 items:4
 $2
 75
-$
+$19
 Potion of good hope
 *4
 $4
@@ -599,8 +599,8 @@ $7
 items:4
 $2
 76
-$
-Mithral shirt
+$18
+Mithral chainshirt
 *4
 $4
 ZADD
@@ -608,7 +608,7 @@ $7
 items:4
 $2
 77
-$
+$21
 Elixir of fire breath
 *4
 $4
@@ -617,7 +617,7 @@ $7
 items:4
 $2
 78
-$
+$36
 Potion of resist energy (~energy) 30
 *4
 $4
@@ -626,7 +626,7 @@ $7
 items:4
 $2
 79
-$
+$31
 Scroll of break enchantment (A)
 *4
 $4
@@ -635,7 +635,7 @@ $7
 items:4
 $2
 80
-$
+$33
 Scroll of contact other plane (A)
 *4
 $4
@@ -644,7 +644,7 @@ $7
 items:4
 $2
 81
-$
+$36
 Scroll of greater dimension door (A)
 *4
 $4
@@ -653,7 +653,7 @@ $7
 items:4
 $2
 82
-$
+$23
 Scroll of dismissal (A)
 *4
 $4
@@ -662,7 +662,7 @@ $7
 items:4
 $2
 83
-$
+$31
 Scroll of disrupting weapon (D)
 *4
 $4
@@ -671,7 +671,7 @@ $7
 items:4
 $2
 84
-$
+$31
 Scroll of fire shield, mass (A)
 *4
 $4
@@ -680,7 +680,7 @@ $7
 items:4
 $2
 85
-$
+$22
 Scroll of mass fly (A)
 *4
 $4
@@ -689,7 +689,7 @@ $7
 items:4
 $2
 86
-$
+$44
 Scroll of Mordenkainen's private sanctum (A)
 *4
 $4
@@ -698,7 +698,7 @@ $7
 items:4
 $2
 87
-$
+$25
 Scroll of plane shift (D)
 *4
 $4
@@ -707,7 +707,7 @@ $7
 items:4
 $2
 88
-$
+$21
 Scroll of sending (A)
 *4
 $4
@@ -716,7 +716,7 @@ $7
 items:4
 $2
 89
-$
+$22
 Scroll of teleport (A)
 *4
 $4
@@ -725,7 +725,7 @@ $7
 items:4
 $2
 90
-$
+$29
 Scroll of vigorous circle (D)
 *4
 $4
@@ -734,7 +734,7 @@ $7
 items:4
 $2
 91
-$
+$19
 Pipes of the sewers
 *4
 $4
@@ -743,7 +743,7 @@ $7
 items:4
 $2
 92
-$
+$41
 Amber amulet of vermin, giant stag beetle
 *4
 $4
@@ -752,7 +752,7 @@ $7
 items:4
 $2
 93
-$
+$23
 Dragon's draught, brass
 *4
 $4
@@ -761,7 +761,7 @@ $7
 items:4
 $2
 94
-$
+$23
 Dragon's draught, white
 *4
 $4
@@ -770,7 +770,7 @@ $7
 items:4
 $2
 95
-$
+$16
 Dust of illusion
 *4
 $4
@@ -779,7 +779,7 @@ $7
 items:4
 $2
 96
-$
+$30
 Oil of greater magic weapon +2
 *4
 $4
@@ -788,7 +788,7 @@ $7
 items:4
 $2
 97
-$
+$24
 Oil of magic vestment +2
 *4
 $4
@@ -797,7 +797,7 @@ $7
 items:4
 $2
 98
-$
+$21
 Potion of barkskin +5
 *4
 $4
@@ -806,7 +806,7 @@ $7
 items:4
 $2
 99
-$
+$31
 Potion of greater magic fang +2
 *4
 $4
@@ -815,5 +815,5 @@ $7
 items:4
 $3
 100
-$
+$24
 Goggles of minute seeing
