@@ -1,4 +1,4 @@
-*9
+*6
 $4
 SADD
 $14
@@ -9,11 +9,5 @@ $7
 blowgun
 $15
 greater blowgun
-$19
-crossbow bolts (50)
-$11
-arrows (50)
-$18
-sling bullets (50)
 $8
 warsling

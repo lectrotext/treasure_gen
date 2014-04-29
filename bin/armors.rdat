@@ -1,4 +1,4 @@
-*14
+*16
 $4
 SADD
 $6
@@ -27,3 +27,7 @@ $10
 half-plate
 $10
 full plate
+$11
+heavy plate
+$11
+stone plate
