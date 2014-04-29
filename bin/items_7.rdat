@@ -1,0 +1,891 @@
+*4
+$4
+ZADD
+$7
+items:7
+$1
+1
+$
+Scroll of restoration, mass (D)
+*4
+$4
+ZADD
+$7
+items:7
+$1
+2
+$
+Dragon's draught, black
+*4
+$4
+ZADD
+$7
+items:7
+$1
+3
+$
+Dragon's draught, copper
+*4
+$4
+ZADD
+$7
+items:7
+$1
+4
+$
+Oil of greater magic weapon +4
+*4
+$4
+ZADD
+$7
+items:7
+$1
+5
+$
+Oil of magic vestment +4
+*4
+$4
+ZADD
+$7
+items:7
+$1
+6
+$
+Potion of greater magic fang +4
+*4
+$4
+ZADD
+$7
+items:7
+$1
+7
+$
+Robe of bones
+*4
+$4
+ZADD
+$7
+items:7
+$1
+8
+$
+Scroll of revenance (A)
+*4
+$4
+ZADD
+$7
+items:7
+$1
+9
+$
+Sovereign glue
+*4
+$4
+ZADD
+$7
+items:7
+$2
+10
+$
+Bag of holding type I
+*4
+$4
+ZADD
+$7
+items:7
+$2
+11
+$
+Boots of elvenkind
+*4
+$4
+ZADD
+$7
+items:7
+$2
+12
+$
+Boots of jumping
+*4
+$4
+ZADD
+$7
+items:7
+$2
+13
+$
+Boots of the winterlands
+*4
+$4
+ZADD
+$7
+items:7
+$2
+14
+$
+Candle of truth
+*4
+$4
+ZADD
+$7
+items:7
+$2
+15
+$
+Censer of the last breath
+*4
+$4
+ZADD
+$7
+items:7
+$2
+16
+$
+Cloak of elvenkind
+*4
+$4
+ZADD
+$7
+items:7
+$2
+17
+$
+Cloak of quills
+*4
+$4
+ZADD
+$7
+items:7
+$2
+18
+$
+Counterstrike bracers
+*4
+$4
+ZADD
+$7
+items:7
+$2
+19
+$
+Crystal anchor of alertness
+*4
+$4
+ZADD
+$7
+items:7
+$2
+20
+$
+Crystal mask of knowledge
+*4
+$4
+ZADD
+$7
+items:7
+$2
+21
+$
+Crystal mask of languages
+*4
+$4
+ZADD
+$7
+items:7
+$2
+22
+$
+Crystal of arrow deflection, lesser
+*4
+$4
+ZADD
+$7
+items:7
+$2
+23
+$
+Eyes of the eagle
+*4
+$4
+ZADD
+$7
+items:7
+$2
+24
+$
+Gloves of eldritch admixture
+*4
+$4
+ZADD
+$7
+items:7
+$2
+25
+$
+Goggles of foefinding
+*4
+$4
+ZADD
+$7
+items:7
+$2
+26
+$
+Golembane scarab
+*4
+$4
+ZADD
+$7
+items:7
+$2
+27
+$
+Icy strand of the north
+*4
+$4
+ZADD
+$7
+items:7
+$2
+28
+$
+Ring of climbing
+*4
+$4
+ZADD
+$7
+items:7
+$2
+29
+$
+Ring of jumping
+*4
+$4
+ZADD
+$7
+items:7
+$2
+30
+$
+Ring of sustenance
+*4
+$4
+ZADD
+$7
+items:7
+$2
+31
+$
+Ring of swimming
+*4
+$4
+ZADD
+$7
+items:7
+$2
+32
+$
+Spellsight spectacles
+*4
+$4
+ZADD
+$7
+items:7
+$2
+33
+$
+Third eye dampening
+*4
+$4
+ZADD
+$7
+items:7
+$2
+34
+$
+Third eye expose
+*4
+$4
+ZADD
+$7
+items:7
+$2
+35
+$
+Tunic of steady spellcasting
+*4
+$4
+ZADD
+$7
+items:7
+$2
+36
+$
+Vanisher cloak
+*4
+$4
+ZADD
+$7
+items:7
+$2
+37
+$
+Bands of blood rage
+*4
+$4
+ZADD
+$7
+items:7
+$2
+38
+$
+Third eye freedom
+*4
+$4
+ZADD
+$7
+items:7
+$2
+39
+$
+Crystal of energy assault, lesser
+*4
+$4
+ZADD
+$7
+items:7
+$2
+40
+$
+Crystal of stamina, greater
+*4
+$4
+ZADD
+$7
+items:7
+$2
+41
+$
+Metamagic rod, Substitution, lesser
+*4
+$4
+ZADD
+$7
+items:7
+$2
+42
+$
+Necklace of fireballs type II
+*4
+$4
+ZADD
+$7
+items:7
+$2
+43
+$
+Panther mask
+*4
+$4
+ZADD
+$7
+items:7
+$2
+44
+$
+Stone of alarm
+*4
+$4
+ZADD
+$7
+items:7
+$2
+45
+$
+Wand of searing light (CL 6th, 10 charges)
+*4
+$4
+ZADD
+$7
+items:7
+$2
+46
+$
+Aberrant sphere
+*4
+$4
+ZADD
+$7
+items:7
+$2
+47
+$
+Boots of desperation
+*4
+$4
+ZADD
+$7
+items:7
+$2
+48
+$
+Infinite scrollcase
+*4
+$4
+ZADD
+$7
+items:7
+$2
+49
+$
+Meteoric knife
+*4
+$4
+ZADD
+$7
+items:7
+$2
+50
+$
+Bag of tricks, rust
+*4
+$4
+ZADD
+$7
+items:7
+$2
+51
+$
+Bead of force
+*4
+$4
+ZADD
+$7
+items:7
+$2
+52
+$
+Belt of growth
+*4
+$4
+ZADD
+$7
+items:7
+$2
+53
+$
+Burnoose of 1,001 thorns
+*4
+$4
+ZADD
+$7
+items:7
+$2
+54
+$
+Chime of opening
+*4
+$4
+ZADD
+$7
+items:7
+$2
+55
+$
+Circlet of solace
+*4
+$4
+ZADD
+$7
+items:7
+$2
+56
+$
+Clasp of energy protection, greater
+*4
+$4
+ZADD
+$7
+items:7
+$2
+57
+$
+Contact medallion
+*4
+$4
+ZADD
+$7
+items:7
+$2
+58
+$
+Cord of favor
+*4
+$4
+ZADD
+$7
+items:7
+$2
+59
+$
+Corsair's eye patch
+*4
+$4
+ZADD
+$7
+items:7
+$2
+60
+$
+Crystal of adaptation, greater
+*4
+$4
+ZADD
+$7
+items:7
+$2
+61
+$
+Crystal of aquatic action, greater
+*4
+$4
+ZADD
+$7
+items:7
+$2
+62
+$
+Crystal of glancing blows, lesser
+*4
+$4
+ZADD
+$7
+items:7
+$2
+63
+$
+Crystal of screening, greater
+*4
+$4
+ZADD
+$7
+items:7
+$2
+64
+$
+Crystal of security, greater
+*4
+$4
+ZADD
+$7
+items:7
+$2
+65
+$
+Demolition crystal, lesser
+*4
+$4
+ZADD
+$7
+items:7
+$2
+66
+$
+Empowered spellshard, 2nd-level spell
+*4
+$4
+ZADD
+$7
+items:7
+$2
+67
+$
+Essentia helm
+*4
+$4
+ZADD
+$7
+items:7
+$2
+68
+$
+Fiendslayer crystal, lesser
+*4
+$4
+ZADD
+$7
+items:7
+$2
+69
+$
+Gloves of manual prowess
+*4
+$4
+ZADD
+$7
+items:7
+$2
+70
+$
+Gloves of object reading
+*4
+$4
+ZADD
+$7
+items:7
+$2
+71
+$
+Heartseeking amulet
+*4
+$4
+ZADD
+$7
+items:7
+$2
+72
+$
+Horseshoes of speed
+*4
+$4
+ZADD
+$7
+items:7
+$2
+73
+$
+Metamagic rod, Enlarge, lesser
+*4
+$4
+ZADD
+$7
+items:7
+$2
+74
+$
+Metamagic rod, Extend, lesser
+*4
+$4
+ZADD
+$7
+items:7
+$2
+75
+$
+Metamagic rod, Sculpting, lesser
+*4
+$4
+ZADD
+$7
+items:7
+$2
+76
+$
+Metamagic rod, Silent, lesser
+*4
+$4
+ZADD
+$7
+items:7
+$2
+77
+$
+Oil of greater magic weapon +5
+*4
+$4
+ZADD
+$7
+items:7
+$2
+78
+$
+Oil of magic vestment +5
+*4
+$4
+ZADD
+$7
+items:7
+$2
+79
+$
+Potion of greater magic fang +5
+*4
+$4
+ZADD
+$7
+items:7
+$2
+80
+$
+Rope of climbing
+*4
+$4
+ZADD
+$7
+items:7
+$2
+81
+$
+Scroll of brilliant aura (D)
+*4
+$4
+ZADD
+$7
+items:7
+$2
+82
+$
+Scroll of cure critical wounds, mass (D)
+*4
+$4
+ZADD
+$7
+items:7
+$2
+83
+$
+Scroll of death ward, mass (D)
+*4
+$4
+ZADD
+$7
+items:7
+$2
+84
+$
+Scroll of dimensional lock (A or D)
+*4
+$4
+ZADD
+$7
+items:7
+$2
+85
+$
+Scroll of discern location (D)
+*4
+$4
+ZADD
+$7
+items:7
+$2
+86
+$
+Scroll of earthquake (D)
+*4
+$4
+ZADD
+$7
+items:7
+$2
+87
+$
+Scroll of fire storm (D)
+*4
+$4
+ZADD
+$7
+items:7
+$2
+88
+$
+Scroll of ghostform (A)
+*4
+$4
+ZADD
+$7
+items:7
+$2
+89
+$
+Scroll of horrid wilting (A)
+*4
+$4
+ZADD
+$7
+items:7
+$2
+90
+$
+Scroll of invisibility, superior (A)
+*4
+$4
+ZADD
+$7
+items:7
+$2
+91
+$
+Scroll of iron body (A)
+*4
+$4
+ZADD
+$7
+items:7
+$2
+92
+$
+Scroll of mind blank (A)
+*4
+$4
+ZADD
+$7
+items:7
+$2
+93
+$
+Scroll of greater plane shift (A)
+*4
+$4
+ZADD
+$7
+items:7
+$2
+94
+$
+Scroll of polar ray (A)
+*4
+$4
+ZADD
+$7
+items:7
+$2
+95
+$
+Scroll of sunburst (D)
+*4
+$4
+ZADD
+$7
+items:7
+$2
+96
+$
+Soulsmite gauntlets
+*4
+$4
+ZADD
+$7
+items:7
+$2
+97
+$
+Talisman of undead mastery
+*4
+$4
+ZADD
+$7
+items:7
+$2
+98
+$
+Third eye clarity
+*4
+$4
+ZADD
+$7
+items:7
+$3
+100
+$
+Adamantine ~weapon

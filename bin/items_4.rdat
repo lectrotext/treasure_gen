@@ -1,0 +1,819 @@
+*4
+$4
+ZADD
+$7
+items:4
+$1
+1
+$
+Eternal wand of cure light wounds
+*4
+$4
+ZADD
+$7
+items:4
+$1
+2
+$
+Eternal wand of enlarge person
+*4
+$4
+ZADD
+$7
+items:4
+$1
+3
+$
+Eternal wand of mage armor
+*4
+$4
+ZADD
+$7
+items:4
+$1
+4
+$
+Eternal wand of magic missile
+*4
+$4
+ZADD
+$7
+items:4
+$1
+5
+$
+Eternal wand of protection from chaos/evil/good/law
+*4
+$4
+ZADD
+$7
+items:4
+$1
+6
+$
+Eternal wand of ray of enfeeblement
+*4
+$4
+ZADD
+$7
+items:4
+$1
+7
+$
+Eternal wand of repair light damage
+*4
+$4
+ZADD
+$7
+items:4
+$1
+8
+$
+Eternal wand of shield
+*4
+$4
+ZADD
+$7
+items:4
+$1
+9
+$
+Dust of dryness
+*4
+$4
+ZADD
+$7
+items:4
+$2
+10
+$
+Acrobat boots
+*4
+$4
+ZADD
+$7
+items:4
+$2
+11
+$
+Bag of tricks, gray
+*4
+$4
+ZADD
+$7
+items:4
+$2
+12
+$
+Blast disk
+*4
+$4
+ZADD
+$7
+items:4
+$2
+13
+$
+Crystal of stamina, lesser
+*4
+$4
+ZADD
+$7
+items:4
+$2
+14
+$
+Hand of the mage
+*4
+$4
+ZADD
+$7
+items:4
+$2
+15
+$
+Pearl of brain lock
+*4
+$4
+ZADD
+$7
+items:4
+$2
+16
+$
+Piercer cloak
+*4
+$4
+ZADD
+$7
+items:4
+$2
+17
+$
+Potion of barkskin +4
+*4
+$4
+ZADD
+$7
+items:4
+$2
+18
+$
+Wand of bear's endurance (10 charges)
+*4
+$4
+ZADD
+$7
+items:4
+$2
+19
+$
+Wand of blur (10 charges)
+*4
+$4
+ZADD
+$7
+items:4
+$2
+20
+$
+Wand of bull's strength (10 charges)
+*4
+$4
+ZADD
+$7
+items:4
+$2
+21
+$
+Wand of cat's grace (10 charges)
+*4
+$4
+ZADD
+$7
+items:4
+$2
+22
+$
+Wand of cure moderate wounds (10 charges)
+*4
+$4
+ZADD
+$7
+items:4
+$2
+23
+$
+Wand of delay poison (10 charges)
+*4
+$4
+ZADD
+$7
+items:4
+$2
+24
+$
+Wand of invisibility (10 charges)
+*4
+$4
+ZADD
+$7
+items:4
+$2
+25
+$
+Wand of knock (10 charges)
+*4
+$4
+ZADD
+$7
+items:4
+$2
+26
+$
+Wand of mirror image (10 charges)
+*4
+$4
+ZADD
+$7
+items:4
+$2
+27
+$
+Wand of repair moderate damageSC (10 charges)
+*4
+$4
+ZADD
+$7
+items:4
+$2
+28
+$
+Wand of scorching ray (10 charges)
+*4
+$4
+ZADD
+$7
+items:4
+$2
+29
+$
+Wand of see invisibility (10 charges)
+*4
+$4
+ZADD
+$7
+items:4
+$2
+30
+$
+Scroll of stoneskin (A)
+*4
+$4
+ZADD
+$7
+items:4
+$2
+31
+$
+Bracers of armor +1
+*4
+$4
+ZADD
+$7
+items:4
+$2
+32
+$
+Brawler's gauntlets
+*4
+$4
+ZADD
+$7
+items:4
+$2
+33
+$
+Brooch of stability
+*4
+$4
+ZADD
+$7
+items:4
+$2
+34
+$
+Burning veil
+*4
+$4
+ZADD
+$7
+items:4
+$2
+35
+$
+Cloak of elemental protection
+*4
+$4
+ZADD
+$7
+items:4
+$2
+36
+$
+Cloak of resistance +1
+*4
+$4
+ZADD
+$7
+items:4
+$2
+37
+$
+Cognizance crystal, 1 point
+*4
+$4
+ZADD
+$7
+items:4
+$2
+38
+$
+Crystal of aquatic action, lesser
+*4
+$4
+ZADD
+$7
+items:4
+$2
+39
+$
+Crystal of illumination, greater
+*4
+$4
+ZADD
+$7
+items:4
+$2
+40
+$
+Crystal of lifekeeping, lesser
+*4
+$4
+ZADD
+$7
+items:4
+$2
+41
+$
+Crystal of return, lesser
+*4
+$4
+ZADD
+$7
+items:4
+$2
+42
+$
+Crystal of screening, lesser
+*4
+$4
+ZADD
+$7
+items:4
+$2
+43
+$
+Crystal of security, lesser
+*4
+$4
+ZADD
+$7
+items:4
+$2
+44
+$
+Demolition crystal, least
+*4
+$4
+ZADD
+$7
+items:4
+$2
+45
+$
+Dispelling cord
+*4
+$4
+ZADD
+$7
+items:4
+$2
+46
+$
+Drums of marching
+*4
+$4
+ZADD
+$7
+items:4
+$2
+47
+$
+Eagle claw talisman
+*4
+$4
+ZADD
+$7
+items:4
+$2
+48
+$
+Fiendslayer crystal, least
+*4
+$4
+ZADD
+$7
+items:4
+$2
+49
+$
+Gauntlets of energy transformation
+*4
+$4
+ZADD
+$7
+items:4
+$2
+50
+$
+Gloves of spell disruption
+*4
+$4
+ZADD
+$7
+items:4
+$2
+51
+$
+Gloves of the starry sky
+*4
+$4
+ZADD
+$7
+items:4
+$2
+52
+$
+Glyph seal
+*4
+$4
+ZADD
+$7
+items:4
+$2
+53
+$
+Lightning gauntlets
+*4
+$4
+ZADD
+$7
+items:4
+$2
+54
+$
+Pearl of power, 1st-level spell
+*4
+$4
+ZADD
+$7
+items:4
+$2
+55
+$
+Phylactery of faithfulness
+*4
+$4
+ZADD
+$7
+items:4
+$2
+56
+$
+Reliquary holy symbol
+*4
+$4
+ZADD
+$7
+items:4
+$2
+57
+$
+Replenishing skin
+*4
+$4
+ZADD
+$7
+items:4
+$2
+58
+$
+Revelation crystal, lesser
+*4
+$4
+ZADD
+$7
+items:4
+$2
+59
+$
+Ring of brief blessing
+*4
+$4
+ZADD
+$7
+items:4
+$2
+60
+$
+Salve of slipperiness
+*4
+$4
+ZADD
+$7
+items:4
+$2
+61
+$
+Third eye improvisation
+*4
+$4
+ZADD
+$7
+items:4
+$2
+62
+$
+Truedeath crystal, least
+*4
+$4
+ZADD
+$7
+items:4
+$2
+63
+$
+Vest of resistance +1
+*4
+$4
+ZADD
+$7
+items:4
+$2
+73
+$
++1 ~armor/shield
+*4
+$4
+ZADD
+$7
+items:4
+$2
+74
+$
+Mithral heavy shield
+*4
+$4
+ZADD
+$7
+items:4
+$2
+75
+$
+Potion of good hope
+*4
+$4
+ZADD
+$7
+items:4
+$2
+76
+$
+Mithral shirt
+*4
+$4
+ZADD
+$7
+items:4
+$2
+77
+$
+Elixir of fire breath
+*4
+$4
+ZADD
+$7
+items:4
+$2
+78
+$
+Potion of resist energy (~energy) 30
+*4
+$4
+ZADD
+$7
+items:4
+$2
+79
+$
+Scroll of break enchantment (A)
+*4
+$4
+ZADD
+$7
+items:4
+$2
+80
+$
+Scroll of contact other plane (A)
+*4
+$4
+ZADD
+$7
+items:4
+$2
+81
+$
+Scroll of greater dimension door (A)
+*4
+$4
+ZADD
+$7
+items:4
+$2
+82
+$
+Scroll of dismissal (A)
+*4
+$4
+ZADD
+$7
+items:4
+$2
+83
+$
+Scroll of disrupting weapon (D)
+*4
+$4
+ZADD
+$7
+items:4
+$2
+84
+$
+Scroll of fire shield, mass (A)
+*4
+$4
+ZADD
+$7
+items:4
+$2
+85
+$
+Scroll of mass fly (A)
+*4
+$4
+ZADD
+$7
+items:4
+$2
+86
+$
+Scroll of Mordenkainen's private sanctum (A)
+*4
+$4
+ZADD
+$7
+items:4
+$2
+87
+$
+Scroll of plane shift (D)
+*4
+$4
+ZADD
+$7
+items:4
+$2
+88
+$
+Scroll of sending (A)
+*4
+$4
+ZADD
+$7
+items:4
+$2
+89
+$
+Scroll of teleport (A)
+*4
+$4
+ZADD
+$7
+items:4
+$2
+90
+$
+Scroll of vigorous circle (D)
+*4
+$4
+ZADD
+$7
+items:4
+$2
+91
+$
+Pipes of the sewers
+*4
+$4
+ZADD
+$7
+items:4
+$2
+92
+$
+Amber amulet of vermin, giant stag beetle
+*4
+$4
+ZADD
+$7
+items:4
+$2
+93
+$
+Dragon's draught, brass
+*4
+$4
+ZADD
+$7
+items:4
+$2
+94
+$
+Dragon's draught, white
+*4
+$4
+ZADD
+$7
+items:4
+$2
+95
+$
+Dust of illusion
+*4
+$4
+ZADD
+$7
+items:4
+$2
+96
+$
+Oil of greater magic weapon +2
+*4
+$4
+ZADD
+$7
+items:4
+$2
+97
+$
+Oil of magic vestment +2
+*4
+$4
+ZADD
+$7
+items:4
+$2
+98
+$
+Potion of barkskin +5
+*4
+$4
+ZADD
+$7
+items:4
+$2
+99
+$
+Potion of greater magic fang +2
+*4
+$4
+ZADD
+$7
+items:4
+$3
+100
+$
+Goggles of minute seeing

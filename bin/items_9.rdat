@@ -1,0 +1,864 @@
+*4
+$4
+ZADD
+$7
+items:9
+$1
+1
+$22
+Slaying arrow, greater
+*4
+$4
+ZADD
+$7
+items:9
+$1
+2
+$17
+Armbands of might
+*4
+$4
+ZADD
+$7
+items:9
+$1
+3
+$9
+Doss lute
+*4
+$4
+ZADD
+$7
+items:9
+$1
+4
+$17
+Crystal echoblade
+*4
+$4
+ZADD
+$7
+items:9
+$1
+5
+$11
+Elven chain
+*4
+$4
+ZADD
+$7
+items:9
+$1
+6
+$17
+Barricade buckler
+*4
+$4
+ZADD
+$7
+items:9
+$1
+7
+$23
+Circlet of wild surging
+*4
+$4
+ZADD
+$7
+items:9
+$1
+9
+$41
+Wand of cure critical wounds (10 charges)
+*4
+$4
+ZADD
+$7
+items:9
+$2
+10
+$31
+Wand of death ward (10 charges)
+*4
+$4
+ZADD
+$7
+items:9
+$2
+11
+$40
+Wand of freedom of movement (10 charges)
+*4
+$4
+ZADD
+$7
+items:9
+$2
+12
+$41
+Wand of greater invisibility (10 charges)
+*4
+$4
+ZADD
+$7
+items:9
+$2
+13
+$30
+Wand of ice storm (10 charges)
+*4
+$4
+ZADD
+$7
+items:9
+$2
+14
+$43
+Wand of repair critical damage (10 charges)
+*4
+$4
+ZADD
+$7
+items:9
+$2
+15
+$25
+White cloak of the spider
+*4
+$4
+ZADD
+$7
+items:9
+$2
+16
+$12
+Shatterspike
+*4
+$4
+ZADD
+$7
+items:9
+$2
+17
+$12
+Living chain
+*4
+$4
+ZADD
+$7
+items:9
+$2
+18
+$30
+Necklace of fireballs type III
+*4
+$4
+ZADD
+$7
+items:9
+$2
+19
+$19
+Strand of lightning
+*4
+$4
+ZADD
+$7
+items:9
+$2
+20
+$15
+Sacred scabbard
+*4
+$4
+ZADD
+$7
+items:9
+$2
+21
+$11
+Thorn pouch
+*4
+$4
+ZADD
+$7
+items:9
+$2
+22
+$20
+Eternal wand of blur
+*4
+$4
+ZADD
+$7
+items:9
+$2
+23
+$36
+Eternal wand of cure moderate wounds
+*4
+$4
+ZADD
+$7
+items:9
+$2
+24
+$28
+Eternal wand of invisibility
+*4
+$4
+ZADD
+$7
+items:9
+$2
+25
+$28
+Eternal wand of mirror image
+*4
+$4
+ZADD
+$7
+items:9
+$2
+26
+$38
+Eternal wand of repair moderate damage
+*4
+$4
+ZADD
+$7
+items:9
+$2
+27
+$32
+Eternal wand of see invisibility
+*4
+$4
+ZADD
+$7
+items:9
+$2
+28
+$33
+Eternal wand of snake’s swiftness
+*4
+$4
+ZADD
+$7
+items:9
+$2
+29
+$19
+Eternal wand of web
+*4
+$4
+ZADD
+$7
+items:9
+$2
+30
+$33
+Scroll of greater restoration (D)
+*4
+$4
+ZADD
+$7
+items:9
+$2
+31
+$22
+Aroma of curdled death
+*4
+$4
+ZADD
+$7
+items:9
+$2
+32
+$20
+Barbs of retribution
+*4
+$4
+ZADD
+$7
+items:9
+$2
+33
+$20
+Belt of the champion
+*4
+$4
+ZADD
+$7
+items:9
+$2
+34
+$21
+Circlet of persuasion
+*4
+$4
+ZADD
+$7
+items:9
+$2
+35
+$22
+Dragon’s draught, blue
+*4
+$4
+ZADD
+$7
+items:9
+$2
+36
+$24
+Dragon’s draught, silver
+*4
+$4
+ZADD
+$7
+items:9
+$2
+37
+$23
+Gem of the glitterdepth
+*4
+$4
+ZADD
+$7
+items:9
+$2
+38
+$14
+Goggles of day
+*4
+$4
+ZADD
+$7
+items:9
+$2
+39
+$24
+Helm of the purple plume
+*4
+$4
+ZADD
+$7
+items:9
+$2
+40
+$12
+Mask of lies
+*4
+$4
+ZADD
+$7
+items:9
+$2
+41
+$17
+Ring of vengeance
+*4
+$4
+ZADD
+$7
+items:9
+$2
+43
+$42
+Wand of dispel magic (CL 10th, 10 charges)
+*4
+$4
+ZADD
+$7
+items:9
+$2
+45
+$38
+Wand of fireball (CL 10th, 10 charges)
+*4
+$4
+ZADD
+$7
+items:9
+$2
+47
+$44
+Wand of lightning bolt (CL 10th, 10 charges)
+*4
+$4
+ZADD
+$7
+items:9
+$2
+48
+$43
+Wand of searing light (CL 10th, 10 charges)
+*4
+$4
+ZADD
+$7
+items:9
+$2
+49
+$26
+Shield of the severed hand
+*4
+$4
+ZADD
+$7
+items:9
+$2
+50
+$8
+Bowstaff
+*4
+$4
+ZADD
+$7
+items:9
+$2
+51
+$14
+Personal oasis
+*4
+$4
+ZADD
+$7
+items:9
+$2
+52
+$15
+Bladed crossbow
+*4
+$4
+ZADD
+$7
+items:9
+$2
+53
+$27
+Slippers of spider climbing
+*4
+$4
+ZADD
+$7
+items:9
+$2
+54
+$34
+Scroll of teleportation circle (A)
+*4
+$4
+ZADD
+$7
+items:9
+$2
+55
+$21
+Incense of meditation
+*4
+$4
+ZADD
+$7
+items:9
+$2
+56
+$28
+Amulet of fortune prevailing
+*4
+$4
+ZADD
+$7
+items:9
+$2
+57
+$22
+Bag of holding type II
+*4
+$4
+ZADD
+$7
+items:9
+$2
+58
+$22
+Belt of hidden pouches
+*4
+$4
+ZADD
+$7
+items:9
+$2
+59
+$10
+Bolt shirt
+*4
+$4
+ZADD
+$7
+items:9
+$2
+60
+$22
+Boots of swift passage
+*4
+$4
+ZADD
+$7
+items:9
+$2
+61
+$20
+Boots of tremorsense
+*4
+$4
+ZADD
+$7
+items:9
+$2
+62
+$24
+Bracers of aerial combat
+*4
+$4
+ZADD
+$7
+items:9
+$2
+63
+$26
+Bracers of archery, lesser
+*4
+$4
+ZADD
+$7
+items:9
+$2
+64
+$26
+Bracers of blinding strike
+*4
+$4
+ZADD
+$7
+items:9
+$2
+65
+$22
+Bracers of retaliation
+*4
+$4
+ZADD
+$7
+items:9
+$2
+66
+$16
+Circlet of mages
+*4
+$4
+ZADD
+$7
+items:9
+$2
+67
+$29
+Cloak of soulbound resistance
+*4
+$4
+ZADD
+$7
+items:9
+$2
+68
+$17
+Collar of healing
+*4
+$4
+ZADD
+$7
+items:9
+$2
+69
+$26
+Crimson dragonhide bracers
+*4
+$4
+ZADD
+$7
+items:9
+$2
+70
+$36
+Crystal of arrow deflection, greater
+*4
+$4
+ZADD
+$7
+items:9
+$2
+71
+$34
+Crystal of glancing blows, greater
+*4
+$4
+ZADD
+$7
+items:9
+$2
+72
+$31
+Crystal of lifekeeping, greater
+*4
+$4
+ZADD
+$7
+items:9
+$2
+73
+$25
+Truedeath crystal, lesser
+*4
+$4
+ZADD
+$7
+items:9
+$2
+74
+$19
+Deathstrike bracers
+*4
+$4
+ZADD
+$7
+items:9
+$2
+75
+$20
+Diamondskin decanter
+*4
+$4
+ZADD
+$7
+items:9
+$2
+76
+$17
+Dragonscale cloak
+*4
+$4
+ZADD
+$7
+items:9
+$2
+77
+$28
+Fiendslayer crystal, greater
+*4
+$4
+ZADD
+$7
+items:9
+$2
+78
+$11
+Fiery tunic
+*4
+$4
+ZADD
+$7
+items:9
+$2
+79
+$28
+Gauntlets of eldritch energy
+*4
+$4
+ZADD
+$7
+items:9
+$2
+80
+$22
+Gauntlets of lassitude
+*4
+$4
+ZADD
+$7
+items:9
+$2
+81
+$12
+Ghost shroud
+*4
+$4
+ZADD
+$7
+items:9
+$2
+82
+$22
+Hand of the oak father
+*4
+$4
+ZADD
+$7
+items:9
+$2
+83
+$13
+Helm of gazes
+*4
+$4
+ZADD
+$7
+items:9
+$2
+84
+$18
+Horn of resilience
+*4
+$4
+ZADD
+$7
+items:9
+$2
+85
+$13
+Immovable rod
+*4
+$4
+ZADD
+$7
+items:9
+$2
+86
+$28
+Ioun stone, dusty rose prism
+*4
+$4
+ZADD
+$7
+items:9
+$2
+87
+$9
+Ki straps
+*4
+$4
+ZADD
+$7
+items:9
+$2
+88
+$23
+Mask of silent trickery
+*4
+$4
+ZADD
+$7
+items:9
+$2
+89
+$12
+Noble pennon
+*4
+$4
+ZADD
+$7
+items:9
+$2
+90
+$15
+Orb of blinding
+*4
+$4
+ZADD
+$7
+items:9
+$2
+91
+$13
+Platinum helm
+*4
+$4
+ZADD
+$7
+items:9
+$2
+92
+$16
+Portable foxhole
+*4
+$4
+ZADD
+$7
+items:9
+$2
+93
+$18
+Reciprocal bracers
+*4
+$4
+ZADD
+$7
+items:9
+$2
+94
+$27
+Revelation crystal, greater
+*4
+$4
+ZADD
+$7
+items:9
+$2
+95
+$14
+Ring of arming
+*4
+$4
+ZADD
+$7
+items:9
+$2
+96
+$31
+Ring of master artifice, lesser
+*4
+$4
+ZADD
+$7
+items:9
+$2
+97
+$11
+Spider fang
+*4
+$4
+ZADD
+$7
+items:9
+$2
+98
+$12
+Vampire torc
+*4
+$4
+ZADD
+$7
+items:9
+$2
+99
+$21
+Vestments of ebonsilk
+*4
+$4
+ZADD
+$7
+items:9
+$3
+100
+$20
+Witchlight reservoir
