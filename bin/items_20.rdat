@@ -1,0 +1,270 @@
+*4
+$4
+ZADD
+$8
+items:20
+$1
+3
+$24
+Staff of earth and stone
+*4
+$4
+ZADD
+$8
+items:20
+$1
+5
+$29
+Cognizance crystal, 17 points
+*4
+$4
+ZADD
+$8
+items:20
+$1
+8
+$31
+Pearl of power, 9th-level spell
+*4
+$4
+ZADD
+$8
+items:20
+$2
+14
+$16
++9 ~armor/shield
+*4
+$4
+ZADD
+$8
+items:20
+$2
+15
+$19
+Well of many worlds
+*4
+$4
+ZADD
+$8
+items:20
+$2
+19
+$26
+Manual of bodily health +3
+*4
+$4
+ZADD
+$8
+items:20
+$2
+23
+$29
+Manual of gainful exercise +3
+*4
+$4
+ZADD
+$8
+items:20
+$2
+27
+$32
+Manual of quickness in action +3
+*4
+$4
+ZADD
+$8
+items:20
+$2
+31
+$24
+Tome of clear thought +3
+*4
+$4
+ZADD
+$8
+items:20
+$2
+35
+$35
+Tome of leadership and influence +3
+*4
+$4
+ZADD
+$8
+items:20
+$2
+39
+$24
+Tome of understanding +3
+*4
+$4
+ZADD
+$8
+items:20
+$2
+42
+$16
+Rod of alertness
+*4
+$4
+ZADD
+$8
+items:20
+$2
+43
+$20
+Apparatus of Kwalish
+*4
+$4
+ZADD
+$8
+items:20
+$2
+47
+$26
+Mantle of spell resistance
+*4
+$4
+ZADD
+$8
+items:20
+$2
+49
+$30
+Psychoactive skin of the psion
+*4
+$4
+ZADD
+$8
+items:20
+$2
+53
+$20
+Ring of regeneration
+*4
+$4
+ZADD
+$8
+items:20
+$2
+55
+$20
+Mirror of opposition
+*4
+$4
+ZADD
+$8
+items:20
+$2
+57
+$31
+Strand of prayer beads, greater
+*4
+$4
+ZADD
+$8
+items:20
+$2
+59
+$25
+Amulet of mighty fists +4
+*4
+$4
+ZADD
+$8
+items:20
+$2
+61
+$31
+Memento magica, 8th-level spell
+*4
+$4
+ZADD
+$8
+items:20
+$2
+65
+$20
+Ring of three wishes
+*4
+$4
+ZADD
+$8
+items:20
+$2
+67
+$21
+Eyes of petrification
+*4
+$4
+ZADD
+$8
+items:20
+$2
+82
+$10
++7 ~weapon
+*4
+$4
+ZADD
+$8
+items:20
+$2
+84
+$21
+Ring of spell turning
+*4
+$4
+ZADD
+$8
+items:20
+$2
+86
+$35
+Bowl of commanding water elementals
+*4
+$4
+ZADD
+$8
+items:20
+$2
+88
+$37
+Brazier of commanding fire elementals
+*4
+$4
+ZADD
+$8
+items:20
+$2
+90
+$36
+Censer of controlling air elementals
+*4
+$4
+ZADD
+$8
+items:20
+$2
+92
+$19
+Ring of wizardry IV
+*4
+$4
+ZADD
+$8
+items:20
+$2
+94
+$37
+Stone of controlling earth elementals
+*4
+$4
+ZADD
+$8
+items:20
+$3
+100
+$17
++10 ~armor/shield

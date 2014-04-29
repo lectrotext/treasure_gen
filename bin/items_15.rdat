@@ -1,0 +1,819 @@
+*4
+$4
+ZADD
+$8
+items:15
+$1
+1
+$17
+Assassin's dagger
+*4
+$4
+ZADD
+$8
+items:15
+$1
+2
+$8
+Cli lyre
+*4
+$4
+ZADD
+$8
+items:15
+$1
+3
+$17
+Dragonrider armor
+*4
+$4
+ZADD
+$8
+items:15
+$1
+4
+$24
+Rod of enervating strike
+*4
+$4
+ZADD
+$8
+items:15
+$1
+5
+$14
+Rod of freedom
+*4
+$4
+ZADD
+$8
+items:15
+$1
+6
+$23
+Trident of fish command
+*4
+$4
+ZADD
+$8
+items:15
+$1
+7
+$19
+Banded mail of luck
+*4
+$4
+ZADD
+$8
+items:15
+$1
+8
+$19
+Bracelet of friends
+*4
+$4
+ZADD
+$8
+items:15
+$1
+9
+$21
+Runestaff of illusion
+*4
+$4
+ZADD
+$8
+items:15
+$2
+10
+$27
+Runestaff of transportation
+*4
+$4
+ZADD
+$8
+items:15
+$2
+11
+$9
+Viper rod
+*4
+$4
+ZADD
+$8
+items:15
+$2
+12
+$14
+Beholder crown
+*4
+$4
+ZADD
+$8
+items:15
+$2
+13
+$9
+Bone ring
+*4
+$4
+ZADD
+$8
+items:15
+$2
+15
+$32
+Carpet of flying, 5 ft. by 5 ft.
+*4
+$4
+ZADD
+$8
+items:15
+$2
+17
+$13
+Casting glove
+*4
+$4
+ZADD
+$8
+items:15
+$2
+18
+$23
+Crystal mask of insight
+*4
+$4
+ZADD
+$8
+items:15
+$2
+19
+$29
+Eyes of power leech, vampiric
+*4
+$4
+ZADD
+$8
+items:15
+$2
+20
+$16
+Horn of blasting
+*4
+$4
+ZADD
+$8
+items:15
+$2
+22
+$35
+Ioun stone, pale lavender ellipsoid
+*4
+$4
+ZADD
+$8
+items:15
+$2
+24
+$32
+Ioun stone, pearly white spindle
+*4
+$4
+ZADD
+$8
+items:15
+$2
+25
+$18
+Lens of the desert
+*4
+$4
+ZADD
+$8
+items:15
+$2
+27
+$13
+Portable hole
+*4
+$4
+ZADD
+$8
+items:15
+$2
+28
+$20
+Ring of arcane might
+*4
+$4
+ZADD
+$8
+items:15
+$2
+29
+$20
+Ring of invisibility
+*4
+$4
+ZADD
+$8
+items:15
+$2
+30
+$18
+Ring of wizardry I
+*4
+$4
+ZADD
+$8
+items:15
+$2
+31
+$18
+Runestaff of frost
+*4
+$4
+ZADD
+$8
+items:15
+$2
+32
+$23
+Scarab of stabilization
+*4
+$4
+ZADD
+$8
+items:15
+$2
+33
+$18
+Stone of good luck
+*4
+$4
+ZADD
+$8
+items:15
+$2
+34
+$10
+Water whip
+*4
+$4
+ZADD
+$8
+items:15
+$2
+35
+$16
+Dagger of denial
+*4
+$4
+ZADD
+$8
+items:15
+$2
+36
+$10
+Ruby blade
+*4
+$4
+ZADD
+$8
+items:15
+$2
+37
+$25
+Cudgel that never forgets
+*4
+$4
+ZADD
+$8
+items:15
+$2
+38
+$18
+Chain of obeisance
+*4
+$4
+ZADD
+$8
+items:15
+$2
+39
+$12
+Flame tongue
+*4
+$4
+ZADD
+$8
+items:15
+$2
+40
+$39
+Figurine of wondrous power, ivory goats
+*4
+$4
+ZADD
+$8
+items:15
+$2
+41
+$14
+Gwaeron's belt
+*4
+$4
+ZADD
+$8
+items:15
+$2
+42
+$20
+Robe of arcane might
+*4
+$4
+ZADD
+$8
+items:15
+$2
+43
+$20
+Rope of entanglement
+*4
+$4
+ZADD
+$8
+items:15
+$2
+44
+$23
+Runestaff of divination
+*4
+$4
+ZADD
+$8
+items:15
+$2
+45
+$17
+Exoskeleton armor
+*4
+$4
+ZADD
+$8
+items:15
+$2
+46
+$35
+Boots of the mountain king, greater
+*4
+$4
+ZADD
+$8
+items:15
+$2
+47
+$15
+Cloak of battle
+*4
+$4
+ZADD
+$8
+items:15
+$2
+48
+$19
+Golem manual, stone
+*4
+$4
+ZADD
+$8
+items:15
+$2
+49
+$17
+Mask of the skull
+*4
+$4
+ZADD
+$8
+items:15
+$2
+50
+$14
+Turquoise veil
+*4
+$4
+ZADD
+$8
+items:15
+$2
+51
+$21
+Luck blade (0 wishes)
+*4
+$4
+ZADD
+$8
+items:15
+$2
+52
+$13
+Lash of sands
+*4
+$4
+ZADD
+$8
+items:15
+$2
+53
+$17
+Sword of subtlety
+*4
+$4
+ZADD
+$8
+items:15
+$2
+54
+$19
+Sword of the planes
+*4
+$4
+ZADD
+$8
+items:15
+$2
+55
+$15
+Celestial armor
+*4
+$4
+ZADD
+$8
+items:15
+$2
+56
+$24
+Runestaff of the artisan
+*4
+$4
+ZADD
+$8
+items:15
+$2
+57
+$18
+Nine lives stealer
+*4
+$4
+ZADD
+$8
+items:15
+$2
+58
+$21
+Mattock of the titans
+*4
+$4
+ZADD
+$8
+items:15
+$2
+59
+$22
+Rod of enemy detection
+*4
+$4
+ZADD
+$8
+items:15
+$2
+60
+$26
+Circlet of blasting, major
+*4
+$4
+ZADD
+$8
+items:15
+$2
+61
+$25
+Amulet of mighty fists +2
+*4
+$4
+ZADD
+$8
+items:15
+$2
+62
+$28
+Cloak of displacement, minor
+*4
+$4
+ZADD
+$8
+items:15
+$2
+63
+$25
+Helm of underwater action
+*4
+$4
+ZADD
+$8
+items:15
+$2
+64
+$31
+Memento magica, 4th-level spell
+*4
+$4
+ZADD
+$8
+items:15
+$2
+65
+$19
+Mind blade gauntlet
+*4
+$4
+ZADD
+$8
+items:15
+$2
+66
+$38
+Psychoactive skin of celestial embrace
+*4
+$4
+ZADD
+$8
+items:15
+$2
+67
+$37
+Psychoactive skin of fiendish embrace
+*4
+$4
+ZADD
+$8
+items:15
+$2
+68
+$28
+Runestaff of earth and stone
+*4
+$4
+ZADD
+$8
+items:15
+$2
+69
+$16
+Shroud of scales
+*4
+$4
+ZADD
+$8
+items:15
+$2
+70
+$15
+Third eye sense
+*4
+$4
+ZADD
+$8
+items:15
+$2
+71
+$15
+Overhead shield
+*4
+$4
+ZADD
+$8
+items:15
+$2
+72
+$36
+Metamagic rod, Substitution, greater
+*4
+$4
+ZADD
+$8
+items:15
+$2
+73
+$31
+Metamagic rod, Enlarge, greater
+*4
+$4
+ZADD
+$8
+items:15
+$2
+74
+$30
+Metamagic rod, Extend, greater
+*4
+$4
+ZADD
+$8
+items:15
+$2
+75
+$33
+Metamagic rod, Sculpting, greater
+*4
+$4
+ZADD
+$8
+items:15
+$2
+76
+$30
+Metamagic rod, Silent, greater
+*4
+$4
+ZADD
+$8
+items:15
+$2
+77
+$22
+Quarterstaff of battle
+*4
+$4
+ZADD
+$8
+items:15
+$2
+78
+$23
+Plate armor of the deep
+*4
+$4
+ZADD
+$8
+items:15
+$2
+79
+$25
+Staff of swarming insects
+*4
+$4
+ZADD
+$8
+items:15
+$2
+80
+$27
+Bracers of archery, greater
+*4
+$4
+ZADD
+$8
+items:15
+$2
+81
+$19
+Bracers of armor +5
+*4
+$4
+ZADD
+$8
+items:15
+$2
+83
+$22
+Cloak of resistance +5
+*4
+$4
+ZADD
+$8
+items:15
+$2
+84
+$28
+Cognizance crystal, 9 points
+*4
+$4
+ZADD
+$8
+items:15
+$2
+85
+$12
+Eyes of doom
+*4
+$4
+ZADD
+$8
+items:15
+$2
+86
+$12
+Magic siphon
+*4
+$4
+ZADD
+$8
+items:15
+$2
+87
+$31
+Pearl of power, 5th-level spell
+*4
+$4
+ZADD
+$8
+items:15
+$2
+88
+$15
+Ring of evasion
+*4
+$4
+ZADD
+$8
+items:15
+$2
+89
+$23
+Ring of master artifice
+*4
+$4
+ZADD
+$8
+items:15
+$2
+90
+$20
+Ring of X-ray vision
+*4
+$4
+ZADD
+$8
+items:15
+$2
+91
+$15
+Rod of splendor
+*4
+$4
+ZADD
+$8
+items:15
+$2
+92
+$16
+Rod of withering
+*4
+$4
+ZADD
+$8
+items:15
+$2
+93
+$24
+Runestaff of conjuration
+*4
+$4
+ZADD
+$8
+items:15
+$2
+94
+$22
+Runestaff of evocation
+*4
+$4
+ZADD
+$8
+items:15
+$2
+95
+$26
+Runestaff of transmutation
+*4
+$4
+ZADD
+$8
+items:15
+$2
+96
+$21
+Vest of resistance +5
+*4
+$4
+ZADD
+$8
+items:15
+$3
+100
+$16
++5 ~armor/shield

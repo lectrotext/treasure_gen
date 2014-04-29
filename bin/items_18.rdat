@@ -1,0 +1,540 @@
+*4
+$4
+ZADD
+$8
+items:18
+$1
+1
+$21
+Staff of illumination
+*4
+$4
+ZADD
+$8
+items:18
+$1
+2
+$22
+Boots of teleportation
+*4
+$4
+ZADD
+$8
+items:18
+$1
+5
+$19
+Bracers of armor +7
+*4
+$4
+ZADD
+$8
+items:18
+$1
+6
+$29
+Cognizance crystal, 13 points
+*4
+$4
+ZADD
+$8
+items:18
+$1
+7
+$31
+Pearl of power, 7th-level spell
+*4
+$4
+ZADD
+$8
+items:18
+$2
+13
+$16
++7 ~armor/shield
+*4
+$4
+ZADD
+$8
+items:18
+$2
+14
+$26
+Amulet of natural armor +5
+*4
+$4
+ZADD
+$8
+items:18
+$2
+15
+$28
+Cloak of displacement, major
+*4
+$4
+ZADD
+$8
+items:18
+$2
+16
+$19
+Cloudwalker anklets
+*4
+$4
+ZADD
+$8
+items:18
+$2
+17
+$34
+Crystal ball with see invisibility
+*4
+$4
+ZADD
+$8
+items:18
+$2
+18
+$16
+Horn of Valhalla
+*4
+$4
+ZADD
+$8
+items:18
+$2
+19
+$13
+Phoenix cloak
+*4
+$4
+ZADD
+$8
+items:18
+$2
+20
+$28
+Ring of friend shield (pair)
+*4
+$4
+ZADD
+$8
+items:18
+$2
+24
+$21
+Ring of protection +5
+*4
+$4
+ZADD
+$8
+items:18
+$2
+25
+$22
+Ring of shooting stars
+*4
+$4
+ZADD
+$8
+items:18
+$2
+26
+$21
+Ring of spell storing
+*4
+$4
+ZADD
+$8
+items:18
+$2
+27
+$17
+Rod of absorption
+*4
+$4
+ZADD
+$8
+items:18
+$2
+28
+$15
+Rod of flailing
+*4
+$4
+ZADD
+$8
+items:18
+$2
+42
+$10
++5 ~weapon
+*4
+$4
+ZADD
+$8
+items:18
+$2
+43
+$11
+Ollamh harp
+*4
+$4
+ZADD
+$8
+items:18
+$2
+44
+$16
+Absorbing shield
+*4
+$4
+ZADD
+$8
+items:18
+$2
+45
+$20
+Rapier of puncturing
+*4
+$4
+ZADD
+$8
+items:18
+$2
+46
+$9
+Sun blade
+*4
+$4
+ZADD
+$8
+items:18
+$2
+47
+$33
+Crystal ball with detect thoughts
+*4
+$4
+ZADD
+$8
+items:18
+$2
+48
+$11
+Demon armor
+*4
+$4
+ZADD
+$8
+items:18
+$2
+49
+$25
+Amulet of mighty fists +3
+*4
+$4
+ZADD
+$8
+items:18
+$2
+50
+$31
+Memento magica, 6th-level spell
+*4
+$4
+ZADD
+$8
+items:18
+$2
+51
+$23
+Metamagic rod, Chaining
+*4
+$4
+ZADD
+$8
+items:18
+$2
+53
+$23
+Metamagic rod, Maximize
+*4
+$4
+ZADD
+$8
+items:18
+$2
+54
+$15
+Wings of flying
+*4
+$4
+ZADD
+$8
+items:18
+$2
+55
+$11
+Frost brand
+*4
+$4
+ZADD
+$8
+items:18
+$2
+56
+$21
+Cloak of etherealness
+*4
+$4
+ZADD
+$8
+items:18
+$2
+57
+$24
+Daern's instant fortress
+*4
+$4
+ZADD
+$8
+items:18
+$2
+58
+$19
+Dragon's eye amulet
+*4
+$4
+ZADD
+$8
+items:18
+$2
+60
+$26
+Manual of bodily health +2
+*4
+$4
+ZADD
+$8
+items:18
+$2
+62
+$29
+Manual of gainful exercise +2
+*4
+$4
+ZADD
+$8
+items:18
+$2
+64
+$32
+Manual of quickness in action +2
+*4
+$4
+ZADD
+$8
+items:18
+$2
+66
+$24
+Tome of clear thought +2
+*4
+$4
+ZADD
+$8
+items:18
+$2
+68
+$35
+Tome of leadership and influence +2
+*4
+$4
+ZADD
+$8
+items:18
+$2
+70
+$24
+Tome of understanding +2
+*4
+$4
+ZADD
+$8
+items:18
+$2
+71
+$16
+Eyes of charming
+*4
+$4
+ZADD
+$8
+items:18
+$2
+72
+$14
+Staff of frost
+*4
+$4
+ZADD
+$8
+items:18
+$2
+73
+$13
+Robe of stars
+*4
+$4
+ZADD
+$8
+items:18
+$2
+74
+$16
+Staff of defense
+*4
+$4
+ZADD
+$8
+items:18
+$2
+76
+$34
+Carpet of flying, 10 ft. by 10 ft.
+*4
+$4
+ZADD
+$8
+items:18
+$2
+77
+$9
+Darkskull
+*4
+$4
+ZADD
+$8
+items:18
+$2
+78
+$35
+Psychoactive skin of fiery response
+*4
+$4
+ZADD
+$8
+items:18
+$2
+81
+$42
+Ring of universal energy resistance, minor
+*4
+$4
+ZADD
+$8
+items:18
+$2
+82
+$12
+Rod of force
+*4
+$4
+ZADD
+$8
+items:18
+$2
+83
+$16
+Rod of rulership
+*4
+$4
+ZADD
+$8
+items:18
+$2
+84
+$15
+Dwarven thrower
+*4
+$4
+ZADD
+$8
+items:18
+$2
+85
+$30
+Psychoactive skin of the troll
+*4
+$4
+ZADD
+$8
+items:18
+$2
+86
+$32
+Ring of master artifice, greater
+*4
+$4
+ZADD
+$8
+items:18
+$2
+87
+$15
+Rod of security
+*4
+$4
+ZADD
+$8
+items:18
+$2
+88
+$13
+Cube of force
+*4
+$4
+ZADD
+$8
+items:18
+$2
+89
+$19
+Luck blade (1 wish)
+*4
+$4
+ZADD
+$8
+items:18
+$2
+93
+$19
+Bracers of armor +8
+*4
+$4
+ZADD
+$8
+items:18
+$2
+94
+$29
+Cognizance crystal, 15 points
+*4
+$4
+ZADD
+$8
+items:18
+$2
+95
+$31
+Pearl of power, 8th-level spell
+*4
+$4
+ZADD
+$8
+items:18
+$3
+100
+$16
++8 ~armor/shield

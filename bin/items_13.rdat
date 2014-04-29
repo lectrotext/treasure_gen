@@ -1,0 +1,684 @@
+*4
+$4
+ZADD
+$8
+items:13
+$1
+1
+$22
+Cape of the mountebank
+*4
+$4
+ZADD
+$8
+items:13
+$1
+2
+$18
+Trident of warning
+*4
+$4
+ZADD
+$8
+items:13
+$1
+4
+$13
+Foxhide armor
+*4
+$4
+ZADD
+$8
+items:13
+$1
+5
+$17
+Ghoul shell armor
+*4
+$4
+ZADD
+$8
+items:13
+$1
+7
+$22
+Adamantine breastplate
+*4
+$4
+ZADD
+$8
+items:13
+$1
+8
+$13
+Talon scepter
+*4
+$4
+ZADD
+$8
+items:13
+$1
+9
+$22
+Axe of the sea reavers
+*4
+$4
+ZADD
+$8
+items:13
+$2
+10
+$27
+Metamagic rod, Substitution
+*4
+$4
+ZADD
+$8
+items:13
+$2
+11
+$34
+Rod of metal and mineral detection
+*4
+$4
+ZADD
+$8
+items:13
+$2
+12
+$11
+Rod of cats
+*4
+$4
+ZADD
+$8
+items:13
+$2
+14
+$15
+Storm gauntlets
+*4
+$4
+ZADD
+$8
+items:13
+$2
+15
+$21
+Strand of acid pearls
+*4
+$4
+ZADD
+$8
+items:13
+$2
+19
+$35
+Eternal wand of cure serious wounds
+*4
+$4
+ZADD
+$8
+items:13
+$2
+20
+$28
+Eternal wand of displacement
+*4
+$4
+ZADD
+$8
+items:13
+$2
+22
+$35
+Eternal wand of invisibility sphere
+*4
+$4
+ZADD
+$8
+items:13
+$2
+25
+$30
+Eternal wand of lightning bolt
+*4
+$4
+ZADD
+$8
+items:13
+$2
+26
+$38
+Eternal wand of mass snake's swiftness
+*4
+$4
+ZADD
+$8
+items:13
+$2
+27
+$37
+Eternal wand of repair serious damage
+*4
+$4
+ZADD
+$8
+items:13
+$2
+28
+$25
+Ring of animal friendship
+*4
+$4
+ZADD
+$8
+items:13
+$2
+29
+$24
+Amulet of inviolate form
+*4
+$4
+ZADD
+$8
+items:13
+$2
+31
+$22
+Boots of tracklessness
+*4
+$4
+ZADD
+$8
+items:13
+$2
+32
+$20
+Bracers of lightning
+*4
+$4
+ZADD
+$8
+items:13
+$2
+33
+$24
+Cloak of turn resistance
+*4
+$4
+ZADD
+$8
+items:13
+$2
+34
+$21
+Gauntlets of mindfire
+*4
+$4
+ZADD
+$8
+items:13
+$2
+35
+$22
+Metamagic rod, Enlarge
+*4
+$4
+ZADD
+$8
+items:13
+$2
+36
+$21
+Metamagic rod, Extend
+*4
+$4
+ZADD
+$8
+items:13
+$2
+37
+$24
+Metamagic rod, Sculpting
+*4
+$4
+ZADD
+$8
+items:13
+$2
+38
+$21
+Metamagic rod, Silent
+*4
+$4
+ZADD
+$8
+items:13
+$2
+39
+$28
+Phylactery of undead turning
+*4
+$4
+ZADD
+$8
+items:13
+$2
+40
+$19
+Rod of cancellation
+*4
+$4
+ZADD
+$8
+items:13
+$2
+42
+$17
+Runestaff of eyes
+*4
+$4
+ZADD
+$8
+items:13
+$2
+43
+$13
+Veil of doors
+*4
+$4
+ZADD
+$8
+items:13
+$2
+44
+$16
+Gauntlet of rust
+*4
+$4
+ZADD
+$8
+items:13
+$2
+46
+$25
+Ring of lightning flashes
+*4
+$4
+ZADD
+$8
+items:13
+$2
+48
+$14
+Belt of battle
+*4
+$4
+ZADD
+$8
+items:13
+$2
+49
+$17
+Blood claw choker
+*4
+$4
+ZADD
+$8
+items:13
+$2
+51
+$14
+Boots of speed
+*4
+$4
+ZADD
+$8
+items:13
+$2
+52
+$11
+Dove's harp
+*4
+$4
+ZADD
+$8
+items:13
+$2
+53
+$10
+Flesheater
+*4
+$4
+ZADD
+$8
+items:13
+$2
+54
+$16
+Goggles of night
+*4
+$4
+ZADD
+$8
+items:13
+$2
+55
+$18
+Golem manual, clay
+*4
+$4
+ZADD
+$8
+items:13
+$2
+56
+$14
+Horn of plenty
+*4
+$4
+ZADD
+$8
+items:13
+$2
+57
+$24
+Mantle of second chances
+*4
+$4
+ZADD
+$8
+items:13
+$2
+58
+$21
+Medallion of thoughts
+*4
+$4
+ZADD
+$8
+items:13
+$2
+59
+$13
+Pipes of pain
+*4
+$4
+ZADD
+$8
+items:13
+$2
+60
+$29
+Psychoactive skin of the claw
+*4
+$4
+ZADD
+$8
+items:13
+$2
+61
+$12
+Riding boots
+*4
+$4
+ZADD
+$8
+items:13
+$2
+64
+$32
+Ring of energy resistance, minor
+*4
+$4
+ZADD
+$8
+items:13
+$2
+66
+$20
+Ring of spell-battle
+*4
+$4
+ZADD
+$8
+items:13
+$2
+68
+$13
+Rod of wonder
+*4
+$4
+ZADD
+$8
+items:13
+$2
+69
+$29
+Ruby cincture of immutability
+*4
+$4
+ZADD
+$8
+items:13
+$2
+70
+$23
+Runestaff of entrapment
+*4
+$4
+ZADD
+$8
+items:13
+$2
+71
+$28
+Runestaff of size alteration
+*4
+$4
+ZADD
+$8
+items:13
+$2
+72
+$19
+Shirt of resilience
+*4
+$4
+ZADD
+$8
+items:13
+$2
+73
+$10
+Spare hand
+*4
+$4
+ZADD
+$8
+items:13
+$2
+75
+$21
+Vest of free movement
+*4
+$4
+ZADD
+$8
+items:13
+$2
+76
+$13
+Wand bracelet
+*4
+$4
+ZADD
+$8
+items:13
+$2
+77
+$11
+Water cloak
+*4
+$4
+ZADD
+$8
+items:13
+$2
+79
+$11
+Winged vest
+*4
+$4
+ZADD
+$8
+items:13
+$2
+80
+$13
+Serpent armor
+*4
+$4
+ZADD
+$8
+items:13
+$2
+81
+$17
+Hawkfeather armor
+*4
+$4
+ZADD
+$8
+items:13
+$2
+84
+$26
+Scroll of resurrection (D)
+*4
+$4
+ZADD
+$8
+items:13
+$2
+85
+$13
+Chromatic rod
+*4
+$4
+ZADD
+$8
+items:13
+$2
+86
+$11
+Rogue blade
+*4
+$4
+ZADD
+$8
+items:13
+$2
+87
+$12
+Bow of songs
+*4
+$4
+ZADD
+$8
+items:13
+$2
+88
+$21
+Boccob's blessed book
+*4
+$4
+ZADD
+$8
+items:13
+$2
+89
+$16
+Hat of anonymity
+*4
+$4
+ZADD
+$8
+items:13
+$2
+91
+$23
+Ring of chameleon power
+*4
+$4
+ZADD
+$8
+items:13
+$2
+92
+$16
+Shifter's sorrow
+*4
+$4
+ZADD
+$8
+items:13
+$2
+93
+$15
+Cannith goggles
+*4
+$4
+ZADD
+$8
+items:13
+$2
+94
+$38
+Cloak of soulbound resistance, greater
+*4
+$4
+ZADD
+$8
+items:13
+$2
+95
+$18
+Fireflower pendant
+*4
+$4
+ZADD
+$8
+items:13
+$2
+96
+$17
+Gem of brightness
+*4
+$4
+ZADD
+$8
+items:13
+$2
+97
+$16
+Lyre of building
+*4
+$4
+ZADD
+$8
+items:13
+$2
+99
+$11
+Monk's belt
+*4
+$4
+ZADD
+$8
+items:13
+$3
+100
+$10
+Python rod
