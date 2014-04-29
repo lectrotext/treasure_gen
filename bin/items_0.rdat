@@ -1,0 +1,495 @@
+*4
+$4
+ZADD
+$7
+items:0
+$1
+1
+$4
+Acid
+*4
+$4
+ZADD
+$7
+items:0
+$1
+3
+$17
+Lantern, bullseye
+*4
+$4
+ZADD
+$7
+items:0
+$1
+4
+$22
+Scroll of caltrops (A)
+*4
+$4
+ZADD
+$7
+items:0
+$1
+5
+$26
+Scroll of create water (D)
+*4
+$4
+ZADD
+$7
+items:0
+$1
+6
+$28
+Scroll of dancing lights (A)
+*4
+$4
+ZADD
+$7
+items:0
+$1
+7
+$18
+Scroll of dawn (D)
+*4
+$4
+ZADD
+$7
+items:0
+$1
+8
+$31
+Scroll of detect magic (A or D)
+*4
+$4
+ZADD
+$7
+items:0
+$1
+9
+$24
+Scroll of light (A or D)
+*4
+$4
+ZADD
+$7
+items:0
+$2
+10
+$21
+Scroll of message (A)
+*4
+$4
+ZADD
+$7
+items:0
+$2
+11
+$35
+Scroll of purify food and drink (D)
+*4
+$4
+ZADD
+$7
+items:0
+$2
+13
+$16
+Alchemist's fire
+*4
+$4
+ZADD
+$7
+items:0
+$2
+16
+$20
+Rope, silk (100 ft.)
+*4
+$4
+ZADD
+$7
+items:0
+$2
+18
+$11
+Smokesticks
+*4
+$4
+ZADD
+$7
+items:0
+$2
+20
+$19
+Holy symbol, silver
+*4
+$4
+ZADD
+$7
+items:0
+$2
+22
+$10
+Holy water
+*4
+$4
+ZADD
+$7
+items:0
+$2
+23
+$32
+Scroll of aspect of the wolf (D)
+*4
+$4
+ZADD
+$7
+items:0
+$2
+24
+$34
+Scroll of benign transposition (A)
+*4
+$4
+ZADD
+$7
+items:0
+$2
+25
+$25
+Scroll of blessed aim (D)
+*4
+$4
+ZADD
+$7
+items:0
+$2
+26
+$39
+Scroll of comprehend languages (A or D)
+*4
+$4
+ZADD
+$7
+items:0
+$2
+28
+$31
+Scroll of cure light wounds (D)
+*4
+$4
+ZADD
+$7
+items:0
+$2
+29
+$27
+Scroll of disguise self (A)
+*4
+$4
+ZADD
+$7
+items:0
+$2
+30
+$34
+Scroll of endure elements (A or D)
+*4
+$4
+ZADD
+$7
+items:0
+$2
+31
+$27
+Scroll of hail of stone (A)
+*4
+$4
+ZADD
+$7
+items:0
+$2
+32
+$19
+Scroll of mount (A)
+*4
+$4
+ZADD
+$7
+items:0
+$2
+33
+$40
+Scroll of protection from chaos (A or D)
+*4
+$4
+ZADD
+$7
+items:0
+$2
+34
+$39
+Scroll of protection from evil (A or D)
+*4
+$4
+ZADD
+$7
+items:0
+$2
+35
+$39
+Scroll of protection from good (A or D)
+*4
+$4
+ZADD
+$7
+items:0
+$2
+36
+$38
+Scroll of protection from law (A or D)
+*4
+$4
+ZADD
+$7
+items:0
+$2
+37
+$30
+Scroll of remove fear (A or D)
+*4
+$4
+ZADD
+$7
+items:0
+$2
+38
+$24
+Scroll of resurgence (D)
+*4
+$4
+ZADD
+$7
+items:0
+$2
+39
+$23
+Scroll of sanctuary (D)
+*4
+$4
+ZADD
+$7
+items:0
+$2
+40
+$18
+Scroll of sign (D)
+*4
+$4
+ZADD
+$7
+items:0
+$2
+41
+$31
+Scroll of snake's swiftness (D)
+*4
+$4
+ZADD
+$7
+items:0
+$2
+42
+$32
+Scroll of speak with animals (D)
+*4
+$4
+ZADD
+$7
+items:0
+$2
+43
+$26
+Scroll of lesser vigor (D)
+*4
+$4
+ZADD
+$7
+items:0
+$2
+45
+$12
+Thunderstone
+*4
+$4
+ZADD
+$7
+items:0
+$2
+47
+$9
+Antitoxin
+*4
+$4
+ZADD
+$7
+items:0
+$2
+49
+$19
+Blessed bandage (5)
+*4
+$4
+ZADD
+$7
+items:0
+$2
+51
+$12
+Disguise kit
+*4
+$4
+ZADD
+$7
+items:0
+$2
+53
+$12
+Healer's kit
+*4
+$4
+ZADD
+$7
+items:0
+$2
+56
+$19
+Oil of magic weapon
+*4
+$4
+ZADD
+$7
+items:0
+$2
+65
+$27
+Potion of cure light wounds
+*4
+$4
+ZADD
+$7
+items:0
+$2
+68
+$25
+Potion of endure elements
+*4
+$4
+ZADD
+$7
+items:0
+$2
+71
+$24
+Potion of enlarge person
+*4
+$4
+ZADD
+$7
+items:0
+$2
+75
+$20
+Potion of mage armor
+*4
+$4
+ZADD
+$7
+items:0
+$2
+78
+$20
+Potion of magic fang
+*4
+$4
+ZADD
+$7
+items:0
+$2
+81
+$45
+Potion of protection from chaos/evil/good/law
+*4
+$4
+ZADD
+$7
+items:0
+$2
+83
+$21
+Potion of remove fear
+*4
+$4
+ZADD
+$7
+items:0
+$2
+85
+$28
+Potion of shield of faith +2
+*4
+$4
+ZADD
+$7
+items:0
+$2
+88
+$22
+Potion of lesser vigor
+*4
+$4
+ZADD
+$7
+items:0
+$2
+90
+$29
+Quaal's feather token, anchor
+*4
+$4
+ZADD
+$7
+items:0
+$2
+92
+$11
+Skill shard
+*4
+$4
+ZADD
+$7
+items:0
+$2
+94
+$14
+Tanglefoot bag
+*4
+$4
+ZADD
+$7
+items:0
+$2
+98
+$26
+Thieves' tools, masterwork
+*4
+$4
+ZADD
+$7
+items:0
+$3
+100
+$17
+Universal solvent

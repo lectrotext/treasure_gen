@@ -1,0 +1,486 @@
+*4
+$4
+ZADD
+$7
+items:1
+$1
+4
+$33
+Wand of detect magic (10 charges)
+*4
+$4
+ZADD
+$7
+items:1
+$1
+7
+$26
+Wand of light (10 charges)
+*4
+$4
+ZADD
+$7
+items:1
+$2
+10
+$31
+Wand of read magic (10 charges)
+*4
+$4
+ZADD
+$7
+items:1
+$2
+11
+$13
+Climber's kit
+*4
+$4
+ZADD
+$7
+items:1
+$2
+14
+$11
+Chain shirt
+*4
+$4
+ZADD
+$7
+items:1
+$2
+15
+$30
+Crystal of illumination, least
+*4
+$4
+ZADD
+$7
+items:1
+$2
+16
+$11
+Sleep arrow
+*4
+$4
+ZADD
+$7
+items:1
+$2
+18
+$19
+Oil of bless weapon
+*4
+$4
+ZADD
+$7
+items:1
+$2
+19
+$26
+Scroll of bless weapon (D)
+*4
+$4
+ZADD
+$7
+items:1
+$2
+21
+$17
+Everburning torch
+*4
+$4
+ZADD
+$7
+items:1
+$2
+25
+$22
+Scroll of identify (A)
+*4
+$4
+ZADD
+$7
+items:1
+$2
+26
+$15
+Daylight pellet
+*4
+$4
+ZADD
+$7
+items:1
+$2
+27
+$14
+Elixir of love
+*4
+$4
+ZADD
+$7
+items:1
+$2
+28
+$35
+Scroll of baleful transposition (A)
+*4
+$4
+ZADD
+$7
+items:1
+$2
+30
+$35
+Scroll of bear's endurance (A or D)
+*4
+$4
+ZADD
+$7
+items:1
+$2
+32
+$34
+Scroll of bull's strength (A or D)
+*4
+$4
+ZADD
+$7
+items:1
+$2
+34
+$30
+Scroll of cat's grace (A or D)
+*4
+$4
+ZADD
+$7
+items:1
+$2
+37
+$34
+Scroll of cure moderate wounds (D)
+*4
+$4
+ZADD
+$7
+items:1
+$2
+38
+$24
+Scroll of darkvision (A)
+*4
+$4
+ZADD
+$7
+items:1
+$2
+39
+$26
+Scroll of delay poison (D)
+*4
+$4
+ZADD
+$7
+items:1
+$2
+40
+$28
+Scroll of earthbind (A or D)
+*4
+$4
+ZADD
+$7
+items:1
+$2
+41
+$24
+Scroll of find traps (D)
+*4
+$4
+ZADD
+$7
+items:1
+$2
+42
+$36
+Scroll of ghost touch armor (A or D)
+*4
+$4
+ZADD
+$7
+items:1
+$2
+43
+$25
+Scroll of glitterdust (A)
+*4
+$4
+ZADD
+$7
+items:1
+$2
+45
+$26
+Scroll of invisibility (A)
+*4
+$4
+ZADD
+$7
+items:1
+$2
+49
+$19
+Scroll of knock (A)
+*4
+$4
+ZADD
+$7
+items:1
+$2
+52
+$30
+Scroll of remove paralysis (D)
+*4
+$4
+ZADD
+$7
+items:1
+$2
+55
+$32
+Scroll of resist energy (A or D)
+*4
+$4
+ZADD
+$7
+items:1
+$2
+57
+$32
+Scroll of lesser restoration (D)
+*4
+$4
+ZADD
+$7
+items:1
+$2
+58
+$30
+Scroll of see invisibility (A)
+*4
+$4
+ZADD
+$7
+items:1
+$2
+59
+$21
+Scroll of silence (D)
+*4
+$4
+ZADD
+$7
+items:1
+$2
+60
+$23
+Unguent of timelessness
+*4
+$4
+ZADD
+$7
+items:1
+$2
+61
+$41
+Wand of benign transposition (10 charges)
+*4
+$4
+ZADD
+$7
+items:1
+$2
+63
+$26
+Wand of bless (10 charges)
+*4
+$4
+ZADD
+$7
+items:1
+$2
+71
+$38
+Wand of cure light wounds (10 charges)
+*4
+$4
+ZADD
+$7
+items:1
+$2
+73
+$35
+Wand of enlarge person (10 charges)
+*4
+$4
+ZADD
+$7
+items:1
+$2
+74
+$33
+Wand of lesser vigor (10 charges)
+*4
+$4
+ZADD
+$7
+items:1
+$2
+78
+$31
+Wand of mage armor (10 charges)
+*4
+$4
+ZADD
+$7
+items:1
+$2
+84
+$42
+Wand of magic missile (CL 1st, 10 charges)
+*4
+$4
+ZADD
+$7
+items:1
+$2
+85
+$40
+Wand of ray of enfeeblement (10 charges)
+*4
+$4
+ZADD
+$7
+items:1
+$2
+86
+$40
+Wand of repair light damage (10 charges)
+*4
+$4
+ZADD
+$7
+items:1
+$2
+87
+$31
+Wand of resurgence (10 charges)
+*4
+$4
+ZADD
+$7
+items:1
+$2
+89
+$27
+Wand of shield (10 charges)
+*4
+$4
+ZADD
+$7
+items:1
+$2
+90
+$38
+Wand of snake's swiftness (10 charges)
+*4
+$4
+ZADD
+$7
+items:1
+$2
+91
+$31
+Light wooden shield, masterwork
+*4
+$4
+ZADD
+$7
+items:1
+$2
+92
+$31
+Heavy wooden shield, masterwork
+*4
+$4
+ZADD
+$7
+items:1
+$2
+93
+$30
+Light steel shield, masterwork
+*4
+$4
+ZADD
+$7
+items:1
+$2
+94
+$19
+Buckler, masterwork
+*4
+$4
+ZADD
+$7
+items:1
+$2
+95
+$19
+Leather, masterwork
+*4
+$4
+ZADD
+$7
+items:1
+$2
+96
+$22
+Hide armor, masterwork
+*4
+$4
+ZADD
+$7
+items:1
+$2
+97
+$30
+Heavy steel shield, masterwork
+*4
+$4
+ZADD
+$7
+items:1
+$2
+98
+$27
+Studded leather, masterwork
+*4
+$4
+ZADD
+$7
+items:1
+$2
+99
+$9
+Chainmail
+*4
+$4
+ZADD
+$7
+items:1
+$3
+100
+$24
+Tower shield, masterwork

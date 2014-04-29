@@ -1,0 +1,1800 @@
+*4
+$4
+ZADD
+$11
+encounter:1
+$1
+7
+$2
+{}
+*4
+$4
+ZADD
+$11
+encounter:1
+$2
+10
+$23
+{"coins":"1d3x1000 cp"}
+*4
+$4
+ZADD
+$11
+encounter:1
+$2
+21
+$35
+{"coins":"1d3x100 sp", "items":"0"}
+*4
+$4
+ZADD
+$11
+encounter:1
+$2
+44
+$48
+{"coins":"3d6x100 sp", "goods":"A", "items":"1"}
+*4
+$4
+ZADD
+$11
+encounter:1
+$2
+60
+$48
+{"coins":"4d4x100 sp", "goods":"B", "items":"1"}
+*4
+$4
+ZADD
+$11
+encounter:1
+$2
+78
+$49
+{"coins":"2d8x10 gp", "goods":"A", "items":"1,0"}
+*4
+$4
+ZADD
+$11
+encounter:1
+$2
+83
+$35
+{"coins":"2d4x100 gp", "goods":"A"}
+*4
+$4
+ZADD
+$11
+encounter:1
+$2
+91
+$48
+{"coins":"1d6x100 gp", "goods":"B", "items":"1"}
+*4
+$4
+ZADD
+$11
+encounter:1
+$2
+99
+$50
+{"coins":"2d4x100 gp", "goods":"A", "items":"1,0"}
+*4
+$4
+ZADD
+$11
+encounter:1
+$3
+100
+$50
+{"coins":"1d12x10 pp", "goods":"B", "items":"1,0"}
+*4
+$4
+ZADD
+$11
+encounter:2
+$1
+7
+$24
+{"coins":"2d12x1000 cp"}
+*4
+$4
+ZADD
+$11
+encounter:2
+$2
+10
+$37
+{"coins":"3d6x100 sp", "goods":"A,A"}
+*4
+$4
+ZADD
+$11
+encounter:2
+$2
+21
+$35
+{"coins":"2d4x100 sp", "items":"1"}
+*4
+$4
+ZADD
+$11
+encounter:2
+$2
+44
+$38
+{"coins":"1d6x1000 sp", "items":"1,0"}
+*4
+$4
+ZADD
+$11
+encounter:2
+$2
+60
+$53
+{"coins":"1d4x1000 sp", "goods":"A,B", "items":"1,1"}
+*4
+$4
+ZADD
+$11
+encounter:2
+$2
+78
+$52
+{"coins":"1d4x100 gp", "goods":"B", "items":"1,1,0"}
+*4
+$4
+ZADD
+$11
+encounter:2
+$2
+83
+$51
+{"coins":"1d10x100 gp", "goods":"B", "items":"1,0"}
+*4
+$4
+ZADD
+$11
+encounter:2
+$2
+91
+$53
+{"coins":"1d10x100 gp", "goods":"A,A", "items":"1,1"}
+*4
+$4
+ZADD
+$11
+encounter:2
+$2
+99
+$49
+{"coins":"1d12x100 gp", "goods":"B", "items":"2"}
+*4
+$4
+ZADD
+$11
+encounter:2
+$3
+100
+$47
+{"coins":"2d8x10 pp", "goods":"B", "items":"2"}
+*4
+$4
+ZADD
+$11
+encounter:3
+$1
+7
+$36
+{"coins":"1d4x1000 sp", "items":"1"}
+*4
+$4
+ZADD
+$11
+encounter:3
+$2
+10
+$49
+{"coins":"1d4x1000 sp", "goods":"B", "items":"1"}
+*4
+$4
+ZADD
+$11
+encounter:3
+$2
+21
+$36
+{"coins":"1d4x1000 sp", "items":"2"}
+*4
+$4
+ZADD
+$11
+encounter:3
+$2
+44
+$49
+{"coins":"1d8x1000 sp", "goods":"C", "items":"2"}
+*4
+$4
+ZADD
+$11
+encounter:3
+$2
+60
+$51
+{"coins":"1d6x1000 sp", "goods":"C,C", "items":"2"}
+*4
+$4
+ZADD
+$11
+encounter:3
+$2
+78
+$52
+{"coins":"1d8x100 gp", "goods":"B,B", "items":"2,1"}
+*4
+$4
+ZADD
+$11
+encounter:3
+$2
+83
+$53
+{"coins":"1d12x100 gp", "goods":"C,C", "items":"2,0"}
+*4
+$4
+ZADD
+$11
+encounter:3
+$2
+91
+$53
+{"coins":"1d12x100 gp", "goods":"C,C", "items":"2,1"}
+*4
+$4
+ZADD
+$11
+encounter:3
+$2
+99
+$53
+{"coins":"1d12x100 gp", "goods":"C,B,B", "items":"3"}
+*4
+$4
+ZADD
+$11
+encounter:3
+$3
+100
+$50
+{"coins":"1d12x10 pp", "goods":"D,B", "items":"3"}
+*4
+$4
+ZADD
+$11
+encounter:4
+$1
+7
+$38
+{"coins":"1d8x1000 sp", "items":"1,0"}
+*4
+$4
+ZADD
+$11
+encounter:4
+$2
+10
+$51
+{"coins":"1d6x1000 sp", "goods":"C", "items":"1,1"}
+*4
+$4
+ZADD
+$11
+encounter:4
+$2
+21
+$38
+{"coins":"1d8x1000 sp", "items":"2,1"}
+*4
+$4
+ZADD
+$11
+encounter:4
+$2
+44
+$54
+{"coins":"1d10x1000 sp", "goods":"B,C", "items":"2,1"}
+*4
+$4
+ZADD
+$11
+encounter:4
+$2
+60
+$53
+{"coins":"1d8x1000 sp", "goods":"B,D", "items":"2,1"}
+*4
+$4
+ZADD
+$11
+encounter:4
+$2
+78
+$50
+{"coins":"1d8x100 gp", "goods":"B,C", "items":"3"}
+*4
+$4
+ZADD
+$11
+encounter:4
+$2
+83
+$53
+{"coins":"1d12x100 gp", "goods":"B,D", "items":"2,1"}
+*4
+$4
+ZADD
+$11
+encounter:4
+$2
+91
+$49
+{"coins":"1d12x100 gp", "goods":"D", "items":"3"}
+*4
+$4
+ZADD
+$11
+encounter:4
+$2
+99
+$55
+{"coins":"1d12x100 gp", "goods":"C,C,C", "items":"3,1"}
+*4
+$4
+ZADD
+$11
+encounter:4
+$3
+100
+$50
+{"coins":"1d12x10 pp", "goods":"C,D", "items":"4"}
+*4
+$4
+ZADD
+$11
+encounter:5
+$1
+7
+$37
+{"coins":"1d12x1000 sp", "items":"2"}
+*4
+$4
+ZADD
+$11
+encounter:5
+$2
+10
+$49
+{"coins":"1d8x1000 sp", "goods":"D", "items":"2"}
+*4
+$4
+ZADD
+$11
+encounter:5
+$2
+21
+$37
+{"coins":"1d10x1000 sp", "items":"3"}
+*4
+$4
+ZADD
+$11
+encounter:5
+$2
+44
+$52
+{"coins":"1d12x1000 sp", "goods":"B,D", "items":"3"}
+*4
+$4
+ZADD
+$11
+encounter:5
+$2
+60
+$51
+{"coins":"1d6x1000 sp", "goods":"C,E", "items":"3"}
+*4
+$4
+ZADD
+$11
+encounter:5
+$2
+78
+$50
+{"coins":"1d6x100 gp", "goods":"B,D", "items":"4"}
+*4
+$4
+ZADD
+$11
+encounter:5
+$2
+83
+$51
+{"coins":"1d12x100 gp", "goods":"C,E", "items":"3"}
+*4
+$4
+ZADD
+$11
+encounter:5
+$2
+91
+$53
+{"coins":"1d12x100 gp", "goods":"B,C,D", "items":"4"}
+*4
+$4
+ZADD
+$11
+encounter:5
+$2
+99
+$52
+{"coins":"1d6x100 gp", "goods":"B,B,E", "items":"5"}
+*4
+$4
+ZADD
+$11
+encounter:5
+$3
+100
+$50
+{"coins":"1d12x10 pp", "goods":"C,E", "items":"5"}
+*4
+$4
+ZADD
+$11
+encounter:6
+$1
+7
+$38
+{"coins":"1d10x1,000 sp", "items":"3"}
+*4
+$4
+ZADD
+$11
+encounter:6
+$2
+10
+$53
+{"coins":"1d8x1,000 sp", "goods":"D, B", "items":"3"}
+*4
+$4
+ZADD
+$11
+encounter:6
+$2
+21
+$56
+{"coins":"1d12x1,000 sp", "goods":"C, C", "items":"3,1"}
+*4
+$4
+ZADD
+$11
+encounter:6
+$2
+44
+$54
+{"coins":"1d12x100 gp", "goods":"C, D", "items":"3,1"}
+*4
+$4
+ZADD
+$11
+encounter:6
+$2
+60
+$56
+{"coins":"1d8x100 gp", "goods":"B, D, E", "items":"3,1"}
+*4
+$4
+ZADD
+$11
+encounter:6
+$2
+78
+$51
+{"coins":"2d6x100 gp", "goods":"C, D", "items":"4"}
+*4
+$4
+ZADD
+$11
+encounter:6
+$2
+83
+$54
+{"coins":"2d6x100 gp", "goods":"E, F", "items":"3, 1"}
+*4
+$4
+ZADD
+$11
+encounter:6
+$2
+91
+$54
+{"coins":"2d8x100 gp", "goods":"D, E", "items":"4, 2"}
+*4
+$4
+ZADD
+$11
+encounter:6
+$2
+99
+$52
+{"coins":"1d12x100 gp", "goods":"E, F", "items":"5"}
+*4
+$4
+ZADD
+$11
+encounter:6
+$3
+100
+$54
+{"coins":"1d12x10 pp", "goods":"B, D, E", "items":"6"}
+*4
+$4
+ZADD
+$11
+encounter:7
+$1
+7
+$37
+{"coins":"2d8x1,000 sp", "items":"3"}
+*4
+$4
+ZADD
+$11
+encounter:7
+$2
+10
+$53
+{"coins":"2d6x1,000 sp", "goods":"D, C", "items":"3"}
+*4
+$4
+ZADD
+$11
+encounter:7
+$2
+21
+$53
+{"coins":"2d8x1,000 sp", "goods":"D", "items":"3, 1"}
+*4
+$4
+ZADD
+$11
+encounter:7
+$2
+44
+$48
+{"coins":"2d8x100 gp", "goods":"E", "items":"4"}
+*4
+$4
+ZADD
+$11
+encounter:7
+$2
+60
+$54
+{"coins":"3d4x100 gp", "goods":"E, D, C", "items":"4"}
+*4
+$4
+ZADD
+$11
+encounter:7
+$2
+78
+$51
+{"coins":"2d8x100 gp", "goods":"E", "items":"4, 2"}
+*4
+$4
+ZADD
+$11
+encounter:7
+$2
+83
+$54
+{"coins":"2d8x100 gp", "goods":"E, D", "items":"4, 2"}
+*4
+$4
+ZADD
+$11
+encounter:7
+$2
+91
+$51
+{"coins":"2d8x100 gp", "goods":"E", "items":"5, 1"}
+*4
+$4
+ZADD
+$11
+encounter:7
+$2
+99
+$51
+{"coins":"3d4x100 gp", "goods":"E, D", "items":"6"}
+*4
+$4
+ZADD
+$11
+encounter:7
+$3
+100
+$50
+{"coins":"2d8x10 pp", "goods":"E, D", "items":"7"}
+*4
+$4
+ZADD
+$11
+encounter:8
+$1
+7
+$50
+{"coins":"2d10x1000 sp", "goods":"D", "items":"4"}
+*4
+$4
+ZADD
+$11
+encounter:8
+$2
+10
+$49
+{"coins":"2d8x1000 sp", "goods":"E", "items":"4"}
+*4
+$4
+ZADD
+$11
+encounter:8
+$2
+21
+$52
+{"coins":"2d8x100 gp", "goods":"D,C", "items":"4,1"}
+*4
+$4
+ZADD
+$11
+encounter:8
+$2
+44
+$51
+{"coins":"2d10x100 gp", "goods":"E,C", "items":"5"}
+*4
+$4
+ZADD
+$11
+encounter:8
+$2
+60
+$52
+{"coins":"4d4x100 gp", "goods":"E,D,D", "items":"5"}
+*4
+$4
+ZADD
+$11
+encounter:8
+$2
+78
+$50
+{"coins":"4d4x100 gp", "goods":"E,C", "items":"6"}
+*4
+$4
+ZADD
+$11
+encounter:8
+$2
+83
+$50
+{"coins":"4d4x100 gp", "goods":"F,C", "items":"6"}
+*4
+$4
+ZADD
+$11
+encounter:8
+$2
+91
+$51
+{"coins":"2d10x100 gp", "goods":"F", "items":"6,3"}
+*4
+$4
+ZADD
+$11
+encounter:8
+$2
+99
+$50
+{"coins":"2d10x10 pp", "goods":"F,C", "items":"7"}
+*4
+$4
+ZADD
+$11
+encounter:8
+$3
+100
+$50
+{"coins":"2d10x10 pp", "goods":"F,C", "items":"8"}
+*4
+$4
+ZADD
+$11
+encounter:9
+$1
+7
+$53
+{"coins":"2d12x1,000 sp", "goods":"D,C", "items":"4"}
+*4
+$4
+ZADD
+$11
+encounter:9
+$2
+10
+$55
+{"coins":"2d10x1,000 sp", "goods":"E,C", "items":"4,1"}
+*4
+$4
+ZADD
+$11
+encounter:9
+$2
+21
+$49
+{"coins":"2d10x100 gp", "goods":"E", "items":"5"}
+*4
+$4
+ZADD
+$11
+encounter:9
+$2
+44
+$48
+{"coins":"4d6x100 gp", "goods":"F", "items":"5"}
+*4
+$4
+ZADD
+$11
+encounter:9
+$2
+60
+$51
+{"coins":"2d12x100 gp", "goods":"F,D", "items":"6"}
+*4
+$4
+ZADD
+$11
+encounter:9
+$2
+78
+$51
+{"coins":"2d12x100 gp", "goods":"F", "items":"6,3"}
+*4
+$4
+ZADD
+$11
+encounter:9
+$2
+83
+$53
+{"coins":"3d10x100 gp", "goods":"F,D", "items":"6,2"}
+*4
+$4
+ZADD
+$11
+encounter:9
+$2
+91
+$49
+{"coins":"3d10x100 gp", "goods":"F", "items":"7"}
+*4
+$4
+ZADD
+$11
+encounter:9
+$2
+99
+$49
+{"coins":"4d6x10 pp", "goods":"F,D", "items":"8"}
+*4
+$4
+ZADD
+$11
+encounter:9
+$3
+100
+$50
+{"coins":"2d12x10 pp", "goods":"F,D", "items":"9"}
+*4
+$4
+ZADD
+$12
+encounter:10
+$1
+7
+$50
+{"coins":"3d8x1,000 sp", "goods":"E", "items":"5"}
+*4
+$4
+ZADD
+$12
+encounter:10
+$2
+10
+$51
+{"coins":"2d12x1,000 sp", "goods":"F", "items":"5"}
+*4
+$4
+ZADD
+$12
+encounter:10
+$2
+21
+$50
+{"coins":"3d8x100 gp", "goods":"E,D", "items":"6"}
+*4
+$4
+ZADD
+$12
+encounter:10
+$2
+44
+$52
+{"coins":"6d4x100 gp", "goods":"F,E", "items":"6,1"}
+*4
+$4
+ZADD
+$12
+encounter:10
+$2
+60
+$52
+{"coins":"4d6x100 gp", "goods":"F,F", "items":"6,2"}
+*4
+$4
+ZADD
+$12
+encounter:10
+$2
+78
+$52
+{"coins":"4d6x100 gp", "goods":"F,E,D", "items":"7"}
+*4
+$4
+ZADD
+$12
+encounter:10
+$2
+83
+$53
+{"coins":"3d10x100 gp", "goods":"F,F,D", "items":"7"}
+*4
+$4
+ZADD
+$12
+encounter:10
+$2
+91
+$50
+{"coins":"3d10x10 pp", "goods":"F,F", "items":"8"}
+*4
+$4
+ZADD
+$12
+encounter:10
+$2
+99
+$51
+{"coins":"6d4x10 pp", "goods":"F,F,D", "items":"9"}
+*4
+$4
+ZADD
+$12
+encounter:10
+$3
+100
+$53
+{"coins":"3d10x10 pp", "goods":"F,F,D", "items":"10"}
+*4
+$4
+ZADD
+$12
+encounter:11
+$1
+7
+$50
+{"coins":"6d4x1,000 sp", "goods":"F", "items":"6"}
+*4
+$4
+ZADD
+$12
+encounter:11
+$2
+10
+$52
+{"coins":"4d6x1,000 sp", "goods":"F,E", "items":"6"}
+*4
+$4
+ZADD
+$12
+encounter:11
+$2
+21
+$48
+{"coins":"4d6x100 gp", "goods":"F", "items":"7"}
+*4
+$4
+ZADD
+$12
+encounter:11
+$2
+44
+$50
+{"coins":"4d8x100 gp", "goods":"F,F", "items":"7"}
+*4
+$4
+ZADD
+$12
+encounter:11
+$2
+60
+$50
+{"coins":"6d4x100 gp", "goods":"G", "items":"7,2"}
+*4
+$4
+ZADD
+$12
+encounter:11
+$2
+78
+$52
+{"coins":"6d4x100 gp", "goods":"F,F,D", "items":"8"}
+*4
+$4
+ZADD
+$12
+encounter:11
+$2
+83
+$51
+{"coins":"4d10x100 gp", "goods":"G,F", "items":"8"}
+*4
+$4
+ZADD
+$12
+encounter:11
+$2
+91
+$50
+{"coins":"4d10x10 pp", "goods":"G,E", "items":"9"}
+*4
+$4
+ZADD
+$12
+encounter:11
+$2
+99
+$51
+{"coins":"3d10x10 pp", "goods":"G,F", "items":"10"}
+*4
+$4
+ZADD
+$12
+encounter:11
+$3
+100
+$51
+{"coins":"4d10x10 pp", "goods":"G,F", "items":"11"}
+*4
+$4
+ZADD
+$12
+encounter:12
+$2
+10
+$56
+{"coins":"4d8x1,000 sp", "goods":"F, D, C", "items":"7"}
+*4
+$4
+ZADD
+$12
+encounter:12
+$2
+22
+$51
+{"coins":"3d12x1,000 sp", "goods":"F", "items":"8"}
+*4
+$4
+ZADD
+$12
+encounter:12
+$2
+44
+$49
+{"coins":"3d12x100 gp", "goods":"G", "items":"8"}
+*4
+$4
+ZADD
+$12
+encounter:12
+$2
+60
+$53
+{"coins":"1d4x1,000 gp", "goods":"G, E", "items":"8"}
+*4
+$4
+ZADD
+$12
+encounter:12
+$2
+78
+$50
+{"coins":"1d4x1,000 gp", "goods":"G", "items":"9"}
+*4
+$4
+ZADD
+$12
+encounter:12
+$2
+83
+$50
+{"coins":"1d6x1,000 gp", "goods":"H", "items":"9"}
+*4
+$4
+ZADD
+$12
+encounter:12
+$2
+91
+$55
+{"coins":"1d6x100 pp", "goods":"G, F, F", "items":"10"}
+*4
+$4
+ZADD
+$12
+encounter:12
+$2
+99
+$49
+{"coins":"1d4x100 pp", "goods":"H", "items":"11"}
+*4
+$4
+ZADD
+$12
+encounter:12
+$3
+100
+$49
+{"coins":"1d6x100 pp", "goods":"H", "items":"12"}
+*4
+$4
+ZADD
+$12
+encounter:13
+$1
+7
+$49
+{"coins":"4d12x100 gp", "goods":"F", "items":"8"}
+*4
+$4
+ZADD
+$12
+encounter:13
+$2
+10
+$56
+{"coins":"1d4x1,000 gp", "goods":"F, E, C", "items":"8"}
+*4
+$4
+ZADD
+$12
+encounter:13
+$2
+21
+$53
+{"coins":"1d4x1,000 gp", "goods":"F, C", "items":"9"}
+*4
+$4
+ZADD
+$12
+encounter:13
+$2
+44
+$53
+{"coins":"1d8x1,000 gp", "goods":"G, D", "items":"9"}
+*4
+$4
+ZADD
+$12
+encounter:13
+$2
+60
+$54
+{"coins":"1d6x1,000 gp", "goods":"G, F", "items":"10"}
+*4
+$4
+ZADD
+$12
+encounter:13
+$2
+78
+$57
+{"coins":"1d6x1,000 gp", "goods":"G, E", "items":"10, 5"}
+*4
+$4
+ZADD
+$12
+encounter:13
+$2
+83
+$54
+{"coins":"1d8x1,000 gp", "goods":"H, E", "items":"11"}
+*4
+$4
+ZADD
+$12
+encounter:13
+$2
+91
+$52
+{"coins":"1d8x100 pp", "goods":"H", "items":"11, 5"}
+*4
+$4
+ZADD
+$12
+encounter:13
+$2
+99
+$52
+{"coins":"1d6x100 pp", "goods":"H, F", "items":"12"}
+*4
+$4
+ZADD
+$12
+encounter:13
+$3
+100
+$52
+{"coins":"1d8x100 pp", "goods":"H, F", "items":"13"}
+*4
+$4
+ZADD
+$12
+encounter:14
+$1
+7
+$53
+{"coins":"1d6x1,000 gp", "goods":"F, D", "items":"9"}
+*4
+$4
+ZADD
+$12
+encounter:14
+$2
+10
+$53
+{"coins":"1d6x1,000 gp", "goods":"F, E", "items":"9"}
+*4
+$4
+ZADD
+$12
+encounter:14
+$2
+21
+$54
+{"coins":"1d6x1,000 gp", "goods":"F, D", "items":"10"}
+*4
+$4
+ZADD
+$12
+encounter:14
+$2
+44
+$57
+{"coins":"2d4x1,000 gp", "goods":"G, F", "items":"10, 5"}
+*4
+$4
+ZADD
+$12
+encounter:14
+$2
+60
+$51
+{"coins":"1d8x1,000 gp", "goods":"H", "items":"11"}
+*4
+$4
+ZADD
+$12
+encounter:14
+$2
+78
+$57
+{"coins":"1d8x1,000 gp", "goods":"G, F", "items":"11, 6"}
+*4
+$4
+ZADD
+$12
+encounter:14
+$2
+83
+$54
+{"coins":"2d4x1,000 gp", "goods":"H, F", "items":"12"}
+*4
+$4
+ZADD
+$12
+encounter:14
+$2
+91
+$52
+{"coins":"2d4x100 pp", "goods":"H", "items":"12, 5"}
+*4
+$4
+ZADD
+$12
+encounter:14
+$2
+99
+$52
+{"coins":"1d8x100 pp", "goods":"H, G", "items":"13"}
+*4
+$4
+ZADD
+$12
+encounter:14
+$3
+100
+$52
+{"coins":"2d4x100 pp", "goods":"H, G", "items":"14"}
+*4
+$4
+ZADD
+$12
+encounter:15
+$1
+7
+$51
+{"coins":"2d4x1,000 gp", "goods":"G", "items":"10"}
+*4
+$4
+ZADD
+$12
+encounter:15
+$2
+10
+$54
+{"coins":"1d8x1,000 gp", "goods":"G, F", "items":"10"}
+*4
+$4
+ZADD
+$12
+encounter:15
+$2
+21
+$54
+{"coins":"1d8x1,000 gp", "goods":"G, E", "items":"11"}
+*4
+$4
+ZADD
+$12
+encounter:15
+$2
+44
+$55
+{"coins":"1d12x1,000 gp", "goods":"H, F", "items":"11"}
+*4
+$4
+ZADD
+$12
+encounter:15
+$2
+60
+$55
+{"coins":"1d10x1,000 gp", "goods":"H, G", "items":"12"}
+*4
+$4
+ZADD
+$12
+encounter:15
+$2
+78
+$58
+{"coins":"1d10x1,000 gp", "goods":"H, F", "items":"12, 8"}
+*4
+$4
+ZADD
+$12
+encounter:15
+$2
+83
+$55
+{"coins":"2d6x100 pp", "goods":"H, G, E", "items":"13"}
+*4
+$4
+ZADD
+$12
+encounter:15
+$2
+91
+$55
+{"coins":"2d6x100 pp", "goods":"H, G", "items":"13, 6"}
+*4
+$4
+ZADD
+$12
+encounter:15
+$2
+99
+$56
+{"coins":"1d12x100 pp", "goods":"H, G, F", "items":"14"}
+*4
+$4
+ZADD
+$12
+encounter:15
+$3
+100
+$56
+{"coins":"1d12x100 pp", "goods":"H, G, F", "items":"15"}
+*4
+$4
+ZADD
+$12
+encounter:16
+$1
+7
+$55
+{"coins":"1d12x1,000 gp", "goods":"G, E", "items":"11"}
+*4
+$4
+ZADD
+$12
+encounter:16
+$2
+10
+$52
+{"coins":"1d10x1,000 gp", "goods":"H", "items":"11"}
+*4
+$4
+ZADD
+$12
+encounter:16
+$2
+21
+$55
+{"coins":"1d10x1,000 gp", "goods":"G, F", "items":"12"}
+*4
+$4
+ZADD
+$12
+encounter:16
+$2
+44
+$57
+{"coins":"3d4x1,000 gp", "goods":"H, G", "items":"12, 6"}
+*4
+$4
+ZADD
+$12
+encounter:16
+$2
+60
+$52
+{"coins":"1d12x1,000 gp", "goods":"I", "items":"13"}
+*4
+$4
+ZADD
+$12
+encounter:16
+$2
+78
+$58
+{"coins":"1d12x1,000 gp", "goods":"H, G", "items":"13, 8"}
+*4
+$4
+ZADD
+$12
+encounter:16
+$2
+83
+$55
+{"coins":"3d4x100 pp", "goods":"I, F, E", "items":"14"}
+*4
+$4
+ZADD
+$12
+encounter:16
+$2
+91
+$55
+{"coins":"3d4x100 pp", "goods":"I, E", "items":"14, 8"}
+*4
+$4
+ZADD
+$12
+encounter:16
+$2
+99
+$55
+{"coins":"2d6x100 pp", "goods":"I, F, E", "items":"15"}
+*4
+$4
+ZADD
+$12
+encounter:16
+$3
+100
+$54
+{"coins":"3d4x100 pp", "goods":"I, F, E ", "items":""}
+*4
+$4
+ZADD
+$12
+encounter:17
+$1
+7
+$51
+{"coins":"3d4x1,000 gp", "goods":"H", "items":"12"}
+*4
+$4
+ZADD
+$12
+encounter:17
+$2
+10
+$58
+{"coins":"1d12x1,000 gp", "goods":"H, F, F", "items":"12"}
+*4
+$4
+ZADD
+$12
+encounter:17
+$2
+21
+$55
+{"coins":"1d12x1,000 gp", "goods":"H, F", "items":"13"}
+*4
+$4
+ZADD
+$12
+encounter:17
+$2
+44
+$51
+{"coins":"2d8x1,000 gp", "goods":"I", "items":"13"}
+*4
+$4
+ZADD
+$12
+encounter:17
+$2
+60
+$54
+{"coins":"3d4x1,000 gp", "goods":"I, G", "items":"14"}
+*4
+$4
+ZADD
+$12
+encounter:17
+$2
+78
+$54
+{"coins":"3d4x1,000 gp", "goods":"I", "items":"14, 7"}
+*4
+$4
+ZADD
+$12
+encounter:17
+$2
+83
+$54
+{"coins":"2d8x1,000 gp", "goods":"I, G", "items":"15"}
+*4
+$4
+ZADD
+$12
+encounter:17
+$2
+91
+$51
+{"coins":"2d8x1,000 gp", "goods":"I", "items":"16"}
+*4
+$4
+ZADD
+$12
+encounter:17
+$2
+99
+$54
+{"coins":"3d4x1,000 gp", "goods":"I, G", "items":"17"}
+*4
+$4
+ZADD
+$12
+encounter:17
+$3
+100
+$54
+{"coins":"2d8x1,000 gp", "goods":"I, G", "items":"18"}
+*4
+$4
+ZADD
+$12
+encounter:18
+$1
+7
+$54
+{"coins":"2d8x1,000 gp", "goods":"H, G", "items":"13"}
+*4
+$4
+ZADD
+$12
+encounter:18
+$2
+10
+$52
+{"coins":"3d4x1,000 gp", "goods":"I", "items":" 14"}
+*4
+$4
+ZADD
+$12
+encounter:18
+$2
+21
+$57
+{"coins":"3d4x1,000 gp", "goods":"H, G", "items":"14, 9"}
+*4
+$4
+ZADD
+$12
+encounter:18
+$2
+44
+$51
+{"coins":"4d4x1,000 gp", "goods":"I", "items":"15"}
+*4
+$4
+ZADD
+$12
+encounter:18
+$2
+60
+$54
+{"coins":"2d8x1,000 gp", "goods":"I, H", "items":"15"}
+*4
+$4
+ZADD
+$12
+encounter:18
+$2
+78
+$54
+{"coins":"2d8x1,000 gp", "goods":"I, F", "items":"16"}
+*4
+$4
+ZADD
+$12
+encounter:18
+$2
+83
+$52
+{"coins":"4d4x100 pp", "goods":"I, G", "items":"17"}
+*4
+$4
+ZADD
+$12
+encounter:18
+$2
+91
+$52
+{"coins":"4d4x100 pp", "goods":"I, F", "items":"18"}
+*4
+$4
+ZADD
+$12
+encounter:18
+$2
+99
+$52
+{"coins":"2d8x100 pp", "goods":"I, G", "items":"19"}
+*4
+$4
+ZADD
+$12
+encounter:18
+$3
+100
+$52
+{"coins":"4d4x100 pp", "goods":"I, G", "items":"20"}
+*4
+$4
+ZADD
+$12
+encounter:19
+$1
+7
+$51
+{"coins":"3d6x1,000 gp", "goods":"I", "items":"14"}
+*4
+$4
+ZADD
+$12
+encounter:19
+$2
+10
+$54
+{"coins":"2d8x1,000 gp", "goods":"I, F", "items":"15"}
+*4
+$4
+ZADD
+$12
+encounter:19
+$2
+21
+$54
+{"coins":"2d8x1,000 gp", "goods":"I", "items":"15, 7"}
+*4
+$4
+ZADD
+$12
+encounter:19
+$2
+44
+$54
+{"coins":"3d8x1,000 gp", "goods":"I, F", "items":"16"}
+*4
+$4
+ZADD
+$12
+encounter:19
+$2
+60
+$59
+{"coins":"2d10x1,000 gp", "goods":"I, H", "items":"16, 10"}
+*4
+$4
+ZADD
+$12
+encounter:19
+$2
+78
+$53
+{"coins":"2d10x100 pp", "goods":"I, F", "items":"17"}
+*4
+$4
+ZADD
+$12
+encounter:19
+$2
+83
+$52
+{"coins":"3d8x100 pp", "goods":"I, H", "items":"18"}
+*4
+$4
+ZADD
+$12
+encounter:19
+$2
+91
+$52
+{"coins":"3d8x100 pp", "goods":"I, F", "items":"19"}
+*4
+$4
+ZADD
+$12
+encounter:19
+$2
+99
+$52
+{"coins":"3d6x100 pp", "goods":"I, H", "items":"20"}
+*4
+$4
+ZADD
+$12
+encounter:19
+$3
+100
+$52
+{"coins":"3d8x100 pp", "goods":"I, H", "items":"21"}
+*4
+$4
+ZADD
+$12
+encounter:20
+$1
+7
+$58
+{"coins":"2d12x1,000 gp", "goods":"I, F, F", "items":"15"}
+*4
+$4
+ZADD
+$12
+encounter:20
+$2
+10
+$55
+{"coins":"2d10x1,000 gp", "goods":"I, H", "items":"16"}
+*4
+$4
+ZADD
+$12
+encounter:20
+$2
+21
+$58
+{"coins":"2d10x1,000 gp", "goods":"I, F, F", "items":"17"}
+*4
+$4
+ZADD
+$12
+encounter:20
+$2
+44
+$54
+{"coins":"4d6x1,000 gp", "goods":"I, H", "items":"18"}
+*4
+$4
+ZADD
+$12
+encounter:20
+$2
+60
+$58
+{"coins":"2d12x1,000 gp", "goods":"I, H, G", "items":"19"}
+*4
+$4
+ZADD
+$12
+encounter:20
+$2
+78
+$53
+{"coins":"2d12x100 pp", "goods":"I, H", "items":"20"}
+*4
+$4
+ZADD
+$12
+encounter:20
+$2
+83
+$55
+{"coins":"4d6x100 pp", "goods":"I, H, G", "items":"21"}
+*4
+$4
+ZADD
+$12
+encounter:20
+$2
+91
+$52
+{"coins":"4d6x100 pp", "goods":"I, H", "items":"22"}
+*4
+$4
+ZADD
+$12
+encounter:20
+$2
+95
+$56
+{"coins":"2d12x100 pp", "goods":"I, H, G", "items":"23"}
+*4
+$4
+ZADD
+$12
+encounter:20
+$2
+98
+$57
+{"coins":"2d12x100 pp", "goods":"I, H, G", "items":" 24"}
+*4
+$4
+ZADD
+$12
+encounter:20
+$3
+100
+$53
+{"coins":"2d12x100 pp", "goods":"I, I", "items":"25"}
