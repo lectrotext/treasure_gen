@@ -1,0 +1,63 @@
+*3
+$3
+SET
+$14
+enhancement:+2
+$35
+{"63":"+1 enhancement, ~+1 property"}
+*3
+$3
+SET
+$14
+enhancement:+3
+$119
+{"45":"+2 enhancement,~+1 property","80":"+1 enhancement,~+2 property","92":"+1 enhancement,~+1 property,~+1 property"}
+*3
+$3
+SET
+$14
+enhancement:+4
+$106
+{"45":"+3 enhancement,~+1 property","80":"+2 enhancement,~+2 property","92":"+1 enhancement,~+3 property"}
+*3
+$3
+SET
+$14
+enhancement:+5
+$141
+{"41":"+4 enhancement,~+1 property","76":"+3 enhancement,~+2 property","89":"+2 enhancement,~+3 property","96":"+1 enhancement,~+4 property"}
+*3
+$3
+SET
+$14
+enhancement:+6
+$175
+{"1":"+5 enhancement,~+1 property","44":"+4 enhancement,~+2 property","78":"+3 enhancement,~+3 property","90":"+2 enhancement,~+4 property","96":"+1 enhancement,~+5 property"}
+*3
+$3
+SET
+$14
+enhancement:+7
+$140
+{"1":"+5 enhancement,~+2 property","48":"+4 enhancement,~+3 property","80":"+3 enhancement,~+4 property","93":"+2 enhancement,~+5 property"}
+*3
+$3
+SET
+$14
+enhancement:+8
+$105
+{"1":"+5 enhancement,~+3 property","53":"+4 enhancement,~+4 property","86":"+3 enhancement,~+5 property"}
+*3
+$3
+SET
+$14
+enhancement:+9
+$118
+{"1":"+5 enhancement,~+4 property","53":"+4 enhancement,~+3 property,~+2 property","86":"+3 enhancement,~+5 property"}
+*3
+$3
+SET
+$15
+enhancement:+10
+$131
+{"1":"+5 enhancement,~+3 property,~+2 property","51":"+5 enhancement,~+5 property","86":"+4 enhancement,~+3 property,~+3 property"}
