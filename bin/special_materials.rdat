@@ -2,7 +2,7 @@
 $4
 SADD
 $15
-metallic:armors
+armors:metallic
 $10
 adamantine
 $7
@@ -17,7 +17,7 @@ dwarvencraft
 $4
 SADD
 $16
-metallic:weapons
+weapons:metallic
 $10
 adamantine
 $8
@@ -30,7 +30,7 @@ dwarvencraft
 $4
 SADD
 $13
-wooden:armors
+armors:wooden
 $8
 darkwood
 $10
@@ -39,7 +39,7 @@ dragonhide
 $4
 SADD
 $11
-hide:armors
+armors:hide
 $9
 leafweave
 $11
