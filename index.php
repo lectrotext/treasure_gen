@@ -1,6 +1,19 @@
 <?php
-$app = new \Slim\Slim();
+use Slim\Slim;
+
+require 'vendor/autoload.php';
+
+$app = new Slim(array(
+    'debug' => true
+));
+$app->response->headers->set('Content-Type', 'application/json');
+
 $app->get('/', function () {
-    echo "Treasure Generator";
+    echo json_encode(array("title"=>"Treasure Generator"));
 });
+
+$app->get('/api/', function () {
+    echo json_encode(array("title"=>"Treasure Generator"));
+});
+
 $app->run();
